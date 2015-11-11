@@ -1,0 +1,214 @@
+body {
+	background: url($images_dir + 'background-kafka-summit.png') no-repeat;
+	background-position: center;
+	background-size: cover;
+	font-family: $body_font;
+}
+
+h1, h2, h3 {
+	font-family: $headline_font;
+}
+
+a {
+	text-decoration: none;
+	color: $color_link;
+	&:hover {
+		text-decoration: none;
+	}
+}
+
+
+
+/*======================================
+=            Major Elements            =
+======================================*/
+.navbar {
+	a {
+		text-transform: uppercase;
+		color: $color_dark;
+	}
+}
+
+.slide {
+	padding-top: $pad_vertical;
+	padding-bottom: $pad_vertical;
+	h3 {
+		color: $color_primary;
+		text-transform: uppercase;
+		line-height: 1.1;
+		font-weight: bold;
+		font-size: 38px;
+		margin: 0;
+	}
+}
+
+.footer {
+	margin-top: 25px;
+	a {
+		color: #999999;
+	}
+	p {
+		color: #999999;
+		&.copyright {
+			color: #666666;
+		}
+	}
+	padding-bottom: 40px;
+	h3 {
+		color: $color_dark
+		;
+		margin-bottom: 0;
+	}
+	ul {
+		list-style: none;
+		padding: 0;
+		margin: 0;
+		color: $color_dark;
+		weight: 100;
+		a {
+			color: $color_dark;
+		}
+	}
+	.social {
+		margin: 100px 0 20px 0; 
+	}
+	i {
+		color: $color_primary;
+		margin-right: 30px;
+	}
+	.disclaimer {
+		font-weight: bold;
+		font-size: 110%;
+		margin-bottom: 12px;
+		ul li a {
+			color: $color_dark;
+			margin-right: 6px;
+		}
+	}
+}
+
+/*=====  End of Major Elements  ======*/
+
+/*----------  Buttons etc.  ----------*/
+.btn-primary, .hs-button.primary.large {
+	background-color: $color_primary;
+	border-color: $color_primary;
+	border-radius: 4px;
+	font-size: 17px;
+	padding: 10px;
+	color: $color_white;
+}
+
+
+
+/*----------  Special Sections  ----------*/
+#get-updates {
+	h3 {
+		color: $color_white;
+		text-align: right;
+	}
+	p {
+		color: $color_primary;
+		text-align: right;
+		font-size: 18px;
+	}
+	padding-bottom: $pad_vertical;
+	background-color: $color_black;
+	box-shadow: inset 0 0 0 1000px transparentize($color_black, 0.15);
+}
+
+
+#call-for-proposals {
+	color: $color_primary;
+	text-transform: uppercase;
+	padding-bottom: $pad_vertical;
+}
+// Google Form stuff
+iframe {
+	min-height: 2300px;
+	width: 100%;
+	.ss-form-container {
+	box-shadow: none;
+}
+}
+
+/* hubspot embedded form */
+.hbspt-form {
+	label {
+		display: none;
+	}
+	ul {
+		padding: 0;
+	}
+}
+label span {
+	padding-left: 0;
+}
+
+.inputs-list.multi-container {
+	list-style: none;
+	margin: 0;
+	li {
+		margin: 0;
+		padding: 0;
+	}
+	label {
+		display: inline-block;
+		padding: 0;
+		margin: 0;
+	}
+}
+
+.hs-richtext {
+	color: #fff;
+}
+
+label span {
+	color: #cccccc;
+	size: 17px;
+	padding-left: 6px;
+}
+
+div.input input {
+	padding: 8px;
+	background-color: #45474d;
+	color: #808080;
+	margin-bottom: 22px;
+	border: 1px solid #45474d;
+}
+
+// hubspot form stuff
+body.hubspot {
+	div.input input {
+	padding: 8px;
+	background-color: #fff;
+	color: #808080;
+	margin-bottom: 22px;
+}
+}
+
+.submitted-message {
+	color: #fff;
+	font-size: 18px;
+}
+
+div.input input {
+	margin-bottom: 10px;
+	color: #fff;
+	font-weight: normal;
+}
+
+.nav>li>a:focus, .nav>li>a:hover {
+	color: #ff00ff;
+	font-weight: 700;	
+	background: transparent;
+}
+
+
+.actions input {
+	margin-top: 10px;
+}
+
+.hs-richtext {
+	margin-bottom: 5px;
+}

@@ -1,0 +1,28 @@
+/* ==========================================================================
+	Variables
+/* ========================================================================== */
+/* Directories */
+$theme_dir: '/content/themes/kafkasummit/';
+$images_dir: '/content/themes/kafkasummit/images/';
+
+/* Colors */
+$color_body_copy: #444;
+$color_link: rgba(255, 0, 255, 1.0);
+$color_opposite: #fff;
+$color_dark: rgba(183, 183, 183, 1.0);
+$color_primary: rgba(255, 0, 255, 1.0);
+$color_black: rgba(0, 0, 0, 1.0);
+$color_white: rgba(255, 255, 255, 1.0);
+
+/* Font Sizes */
+$size_base: 1em;
+$main_width: 1030px;
+
+/* Typefaces */
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,900,100);
+@import url(https://fonts.googleapis.com/css?family=PT+Sans:400,700);
+$body_font: 'PT Sans';
+$headline_font: 'Roboto';
+
+/* Spacing */
+$pad_vertical: 50px;
