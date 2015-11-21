@@ -13,17 +13,23 @@
 </div>
 </div>
 
-<div id="page-content">
-	<?php get_template_part('loop', 'home'); ?>
+<div class="container">
+  <div class="row">
+    <div class="col-md-12">
+    <?php get_template_part('loop', 'home'); ?>    
+    </div>
+  </div>
 </div>
+	
+
 
 
 <div class="slide" id="get-updates">
 <div class="container">
   <div class="row">
     <div class="col-md-6">
-      <h3>Get Updates</h3>
-      <p>Be notified when Kafka Summit registration opens</p>
+      <h3>Stay In Touch</h3>
+      <div class="thin pull-right">get news updates</div>
     </div>
     <div class="col-md-6">
       <!-- Embed HubSpot Form -->
