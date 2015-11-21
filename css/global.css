@@ -335,11 +335,11 @@ a:hover {
   padding-bottom: 50px;
 }
 
-iframe {
+iframe.google-form {
   min-height: 2300px;
   width: 100%;
 }
-iframe .ss-form-container {
+iframe.google-form .ss-form-container {
   box-shadow: none;
 }
 
