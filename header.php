@@ -28,7 +28,7 @@
 		<div class="container">
 			<div class="row">
 			<div class="col-md-11 col-md-offset-1"> 
-				<img src="/content/themes/kafkasummit/images/kafka-summit-2016-logo.png" alt="Kafka Summit 2016 March 12, 2016" class="img-responsive">       
+				<img src="/wp-content/themes/kafkasummit/images/kafka-summit-2016-logo.png" alt="Kafka Summit 2016 March 12, 2016" class="img-responsive">       
 			</div>
 			</div>        
 		</div>
