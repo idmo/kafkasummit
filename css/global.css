@@ -241,9 +241,17 @@ a:hover {
 /*======================================
 =            Major Elements            =
 ======================================*/
+.navbar {
+  padding-top: 18px;
+}
 .navbar a {
   text-transform: uppercase;
-  color: #b7b7b7;
+  color: #444;
+}
+.navbar ul li:last-child a {
+  background-color: magenta;
+  color: white;
+  border-radius: 6px;
 }
 
 .slide {
@@ -315,6 +323,11 @@ a:hover {
 }
 
 /*----------  Special Sections  ----------*/
+#join-us, #tutorial {
+  box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, 0.9);
+  color: white;
+}
+
 #get-updates {
   padding-bottom: 18px;
   background-color: black;
