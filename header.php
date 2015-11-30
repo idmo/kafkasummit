@@ -14,13 +14,19 @@
     </head>
     <body <?php body_class() ?>>
 		<header id="page-header">
-			<?php wp_nav_menu(array(
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12">
+				<?php wp_nav_menu(array(
 				'theme_location' => 'main-nav',
 				'container'      => 'nav',
 				'container_id'   => 'global-nav',
 				'container_class' => 'navbar',
 				'menu_class' => 'nav nav-justified'
-			)) ?>
+				)) ?>					
+				</div>
+			</div>
+		</div>
 		</header>
 
 

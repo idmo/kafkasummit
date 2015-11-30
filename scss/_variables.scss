@@ -2,8 +2,8 @@
 	Variables
 /* ========================================================================== */
 /* Directories */
-$theme_dir: '/content/themes/kafkasummit/';
-$images_dir: '/content/themes/kafkasummit/images/';
+$theme_dir: '/wp-content/themes/kafkasummit/';
+$images_dir: '/wp-content/themes/kafkasummit/images/';
 
 /* Colors */
 $color_body_copy: #444;
@@ -23,6 +23,7 @@ $main_width: 1030px;
 @import url(https://fonts.googleapis.com/css?family=PT+Sans:400,700);
 $body_font: 'PT Sans';
 $headline_font: 'Roboto';
+$body_font_size: 16px;
 
 /* Spacing */
-$pad_vertical: 50px;
+$pad_vertical: 18px;

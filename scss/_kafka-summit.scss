@@ -3,6 +3,7 @@ body {
 	background-position: center;
 	background-size: cover;
 	font-family: $body_font;
+	font-size: $body_font_size;
 }
 
 h1, h2, h3 {
@@ -136,6 +137,11 @@ iframe.google-form {
 }
 }
 
+// Turn off background image for call for proposal
+body.page-id-12, body.page-id-11 {
+	background-image: none;
+}
+
 /* hubspot embedded form */
 .hbspt-form {
 	label {
@@ -202,9 +208,12 @@ div.input input {
 	font-weight: normal;
 }
 
+.nav>li>a:focus, .nav>li>a {
+	font-size: 14px;
+}
+
 .nav>li>a:focus, .nav>li>a:hover {
 	color: #ff00ff;
-	font-weight: 700;	
 	background: transparent;
 }
 
