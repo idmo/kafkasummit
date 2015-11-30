@@ -7,7 +7,7 @@
         <meta charset="<?php bloginfo( 'charset' ) ?>">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
         <meta name="viewport" content="width=device-width">
-        <title><?php wp_title( '|', true, 'right' ) ?></title>
+        <title><?php wp_title( '| Kafka Summit 2016', true, 'right' ) ?></title>
 		<meta name="author" content="">
 		<link rel="author" href="">
 		<?php wp_head() ?>

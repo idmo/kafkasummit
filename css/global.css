@@ -255,8 +255,8 @@ a:hover {
   text-transform: uppercase;
   line-height: 1.1;
   font-weight: bold;
-  font-size: 38px;
-  margin: 0;
+  font-size: 32px;
+  margin: 26px 0 0 0;
 }
 
 .footer {
@@ -339,6 +339,9 @@ a:hover {
   text-transform: uppercase;
   padding-bottom: 18px;
 }
+#call-for-proposals h3 {
+  margin: 0 0 0 0;
+}
 
 iframe.google-form {
   min-height: 2300px;
@@ -416,6 +419,20 @@ div.input input {
 
 .nav > li > a:focus, .nav > li > a {
   font-size: 14px;
+}
+
+.nav > li .sub-menu {
+  display: none;
+}
+
+.nav > li:hover .sub-menu {
+  font-size: 14px;
+  display: inline-block;
+  z-index: 1000;
+  position: static;
+}
+.nav > li:hover .sub-menu a {
+  color: #ff00ff;
 }
 
 .nav > li > a:focus, .nav > li > a:hover {
