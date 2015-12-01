@@ -29,26 +29,36 @@
       <!-- Embed HubSpot Form -->
 
 
-<!--[if lte IE 8]>
-<script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2-legacy.js"></script>
-<![endif]-->
-<script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2.js"></script>
-<script>
-  hbspt.forms.create({ 
-    sfdcCampaignId: '701j0000000nKkpAAE',
-    css: '',
-    portalId: '540072',
-    formId: 'b0acdb26-5892-4fdc-9c22-278a05df8507'
-  });
-</script>
-
-
+      <!--[if lte IE 8]>
+      <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2-legacy.js"></script>
+      <![endif]-->
+      <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2.js"></script>
+      <script>
+        hbspt.forms.create({ 
+          sfdcCampaignId: '701j0000000nKkpAAE',
+          css: '',
+          portalId: '540072',
+          formId: 'b0acdb26-5892-4fdc-9c22-278a05df8507'
+        });
+      </script>
       <!-- end HubSpot Form -->
     </div>
   </div>
 </div>
 </div>
 
+
+<div class="slide">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <h2>Sponsor Kafka Summit</h2>
+If you are interested in sponsoring Kafka Summit, please send an email to <a href="mailto:organizers@kafka-summit.org">organizers@kafka-summit.org</a>.
+
+      </div>
+    </div>
+  </div>
+</div>
 
 
 <!-- Footer -->
