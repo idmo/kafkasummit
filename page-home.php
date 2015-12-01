@@ -48,18 +48,6 @@
 </div>
 
 
-<div class="slide">
-  <div class="container">
-    <div class="row">
-      <div class="col-md-12">
-        <h2>Sponsor Kafka Summit</h2>
-If you are interested in sponsoring Kafka Summit, please send an email to <a href="mailto:organizers@kafka-summit.org">organizers@kafka-summit.org</a>.
-
-      </div>
-    </div>
-  </div>
-</div>
-
 
 <!-- Footer -->
 
