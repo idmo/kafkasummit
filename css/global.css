@@ -434,13 +434,13 @@ body.hubspot div.input input {
 }
 
 .submitted-message {
-  color: #fff;
+  color: #555;
   font-size: 18px;
 }
 
 div.input input {
   margin-bottom: 10px;
-  color: #fff;
+  color: #555;
   font-weight: normal;
 }
 

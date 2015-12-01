@@ -25,7 +25,7 @@ a {
 ======================================*/
 .navbar {
 	padding-top: 18px;
-	a {
+		a {
 		text-transform: uppercase;
 		color: $color_nav;
 	}
@@ -230,13 +230,13 @@ body.hubspot {
 }
 
 .submitted-message {
-	color: #fff;
+	color: #555;
 	font-size: 18px;
 }
 
 div.input input {
 	margin-bottom: 10px;
-	color: #fff;
+	color: #555;
 	font-weight: normal;
 }
 
