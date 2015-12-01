@@ -336,6 +336,8 @@ a:hover {
 #get-updates h3 {
   color: white;
   text-align: right;
+  padding: 0;
+  margin-top: 0;
 }
 #get-updates p {
   color: magenta;
