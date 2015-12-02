@@ -30,10 +30,10 @@
 		</header>
 
 
-		<div class="slide">
+		<div class="slide" id="masthead">
 		<div class="container">
 			<div class="row">
-			<div class="col-md-11 col-md-offset-1"> 
+			<div class="col-md-12"> 
 				<a href="http://www.kafka-summit.org/index.php"><img src="/wp-content/themes/kafkasummit/images/kafka-summit-2016-logo.png" alt="Kafka Summit 2016 March 12, 2016" class="img-responsive"></a>       
 			</div>
 			</div>        
