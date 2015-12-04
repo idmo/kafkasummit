@@ -333,7 +333,7 @@ a:hover {
 }
 
 #join-us {
-  box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, 0.84);
+  box-shadow: inset 0 0 0 1000px rgba(51, 51, 51, 0.5);
   color: white;
 }
 #join-us p {
@@ -341,12 +341,13 @@ a:hover {
 }
 
 #tutorial {
-  box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, 0.3);
+  box-shadow: inset 0 0 0 1000px rgba(102, 102, 102, 0.5);
   padding: 40px 0;
 }
 
 #get-updates {
   padding-bottom: 18px;
+  box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, 0.6);
 }
 #get-updates h3 {
   color: black;
