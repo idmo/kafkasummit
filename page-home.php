@@ -48,6 +48,24 @@
 </div>
 
 
+<div class="slide" id="program-committee">
+  <div class="container">
+    <div class="row">
+      <h3>Kafka Summit Program Committee</h3>
+    </div>
+  </div>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-2"><a href="" class="thumbnail"><img src="http://cdn2.hubspot.net/hub/540072/hubfs/employee_photos/pro/square/Neha_ATO5C9855C.jpg?t=1451876524645&width=3039&height=3039" alt="" class="img-responsive"></a>Neha Narkhede<br>Program Chair</div>
+      <div class="col-md-2"><a href="" class="thumbnail"><img src="http://cdn2.hubspot.net/hub/540072/hubfs/employee_photos/pro/square/Jun_ATO5C9884.jpg?t=1451876524645&width=400&height=400" alt="" class="img-responsive"></a>Jun Rao</div>
+      <div class="col-md-2"><a href="" class="thumbnail"><img src="http://cdn2.hubspot.net/hub/540072/hubfs/employee_photos/pro/square/Neha_ATO5C9855C.jpg?t=1451876524645&width=3039&height=3039" alt="" class="img-responsive"></a>Neha Narkhede</div>
+      <div class="col-md-2"><a href="" class="thumbnail"><img src="http://cdn2.hubspot.net/hub/540072/hubfs/employee_photos/pro/square/Jun_ATO5C9884.jpg?t=1451876524645&width=400&height=400" alt="" class="img-responsive"></a>Jun Rao</div>
+      <div class="col-md-2"><a href="" class="thumbnail"><img src="http://cdn2.hubspot.net/hub/540072/hubfs/employee_photos/pro/square/Neha_ATO5C9855C.jpg?t=1451876524645&width=3039&height=3039" alt="" class="img-responsive"></a>Neha Narkhede</div>
+      <div class="col-md-2"><a href="" class="thumbnail"><img src="http://cdn2.hubspot.net/hub/540072/hubfs/employee_photos/pro/square/Jun_ATO5C9884.jpg?t=1451876524645&width=400&height=400" alt="" class="img-responsive"></a>Jun Rao</div>
+    </div>
+  </div>
+</div>
+
 
 <!-- Footer -->
 
