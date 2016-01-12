@@ -1,17 +1,5 @@
 <?php get_header(); ?>
 
-<div class="slide" id="call-for-proposals">
-<div class="container">
-  <div class="row">
-    <div class="col-md-6"></div>
-    <div class="col-md-6">
-      <div class="thin">Call for</div>
-      <h3><a href="cfp.html">Proposals <i class="fa fa-chevron-right"></i></a></h3>
-      <div class="thin">Deadline is January 11, 2016</div>
-    </div>
-  </div>
-</div>
-</div>
 
     <?php get_template_part('loop', 'home'); ?>    
 	
@@ -47,25 +35,27 @@
 </div>
 </div>
 
-
+<!-- 
 <div class="slide" id="program-committee">
   <div class="container">
     <div class="row">
+    <div class="col-md-12">
       <h3>Kafka Summit Program Committee</h3>
+    </div>
     </div>
   </div>
   <div class="container">
     <div class="row">
-      <div class="col-md-2"><a href="" class="thumbnail"><img src="http://cdn2.hubspot.net/hub/540072/hubfs/employee_photos/pro/square/Neha_ATO5C9855C.jpg?t=1451876524645&width=3039&height=3039" alt="" class="img-responsive"></a>Neha Narkhede<br>Program Chair</div>
-      <div class="col-md-2"><a href="" class="thumbnail"><img src="http://cdn2.hubspot.net/hub/540072/hubfs/employee_photos/pro/square/Jun_ATO5C9884.jpg?t=1451876524645&width=400&height=400" alt="" class="img-responsive"></a>Jun Rao</div>
-      <div class="col-md-2"><a href="" class="thumbnail"><img src="http://cdn2.hubspot.net/hub/540072/hubfs/employee_photos/pro/square/Neha_ATO5C9855C.jpg?t=1451876524645&width=3039&height=3039" alt="" class="img-responsive"></a>Neha Narkhede</div>
-      <div class="col-md-2"><a href="" class="thumbnail"><img src="http://cdn2.hubspot.net/hub/540072/hubfs/employee_photos/pro/square/Jun_ATO5C9884.jpg?t=1451876524645&width=400&height=400" alt="" class="img-responsive"></a>Jun Rao</div>
-      <div class="col-md-2"><a href="" class="thumbnail"><img src="http://cdn2.hubspot.net/hub/540072/hubfs/employee_photos/pro/square/Neha_ATO5C9855C.jpg?t=1451876524645&width=3039&height=3039" alt="" class="img-responsive"></a>Neha Narkhede</div>
-      <div class="col-md-2"><a href="" class="thumbnail"><img src="http://cdn2.hubspot.net/hub/540072/hubfs/employee_photos/pro/square/Jun_ATO5C9884.jpg?t=1451876524645&width=400&height=400" alt="" class="img-responsive"></a>Jun Rao</div>
+      <div class="col-md-2"><a href="/program-committee/neha-narkhede"><img src="/wp-content/themes/kafkasummit/images/neha-narkhede.png" alt="Neha Narkhede" class="img-responsive thumbnail"><p>Neha Narkhede<br>Program Chair</p></a></div>
+      <div class="col-md-2"><a href="/program-committee/tyler-akidau"><img src="/wp-content/themes/kafkasummit/images/tyler-akidau.png" alt="Tyler Akidau" class="img-responsive thumbnail"><p>Tyler Akidau</p></a></div>
+      <div class="col-md-2"><a href="/program-committee/joe-crobak"><img src="/wp-content/themes/kafkasummit/images/joe-crobak.png" alt="Joe Crobak" class="img-responsive thumbnail"><p>Joe Crobak</p></a></div>
+      <div class="col-md-2"><a href="/program-committee/jun-rao"><img src="/wp-content/themes/kafkasummit/images/jun-rao.png" alt="Jun Rao" class="img-responsive thumbnail"><p>Jun Rao</p></a></div>
+      <div class="col-md-2"><a href="/program-committee/joe-stein"><img src="/wp-content/themes/kafkasummit/images/joe-stein.png" alt="Joe Stein" class="img-responsive thumbnail"><p>Joe Stein</p></a></div>
+      <div class="col-md-2"><a href="/program-committee/"><img src="/wp-content/themes/kafkasummit/images/neha-narkhede.png" alt="" class="img-responsive thumbnail"><p>TBD</p></a></div>
     </div>
   </div>
 </div>
-
+ -->
 
 <!-- Footer -->
 
