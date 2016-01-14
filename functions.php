@@ -52,3 +52,10 @@ function register_widgets(){
 
 }//end register_widgets()
 add_action( 'widgets_init', 'register_widgets' );
+
+
+
+
+
+
+

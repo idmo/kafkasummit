@@ -374,6 +374,23 @@ a:hover {
   margin: 0 0 0 0;
 }
 
+#program-committee h3 {
+  margin-bottom: 20px;
+}
+#program-committee p {
+  text-align: center;
+}
+
+#sponsors {
+  text-align: center;
+}
+#sponsors h3 {
+  text-align: left;
+}
+#sponsors img {
+  margin: 12px auto;
+}
+
 iframe.google-form {
   min-height: 2600px;
   width: 100%;
