@@ -21,6 +21,7 @@
 				?>
 				<h4>Prerequisite Knowledge</h4>
 				<?php the_field('prerequisite_knowledge') ?>
+				<p><strong>Location</strong> <?php the_field('location') ?></p>
 				<hr>
 				<h2>Description</h2>
 				<?php get_template_part('clip', 'single'); ?>
@@ -43,7 +44,7 @@
 						<div class="media">
 						  <div class="media-left">
 						    <a href="<?php the_permalink(); ?>">
-						      <img class="media-object" src="<?php the_field('photo') ?>" alt="..." height="96" width="96"> 
+						      <img class="media-object" src="<?php the_field('photo') ?>" alt="..." width="96px"> 
 						    </a>
 						  </div>
 						  <div class="media-body">
