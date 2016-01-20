@@ -12,8 +12,6 @@
 		<link rel="author" href="">
 		<?php wp_head() ?>
 
-		<link href="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/css/bootstrap-combined.no-icons.min.css" rel="stylesheet">
-		<link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet">	
     </head>
     <body <?php body_class() ?>>
 		<header id="page-header">
