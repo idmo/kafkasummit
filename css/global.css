@@ -380,6 +380,9 @@ a:hover {
 #program-committee p {
   text-align: center;
 }
+#program-committee a {
+  color: #555;
+}
 
 #sponsors {
   text-align: center;

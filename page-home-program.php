@@ -45,7 +45,7 @@
 </div>
 
 
-<div class="slide" id="program-committe">
+<div class="slide" id="program-committee">
   <div class="container">
     <div class="row">
     <div class="col-md-12">
@@ -59,8 +59,8 @@
       <div class="col-md-2"><a href="/people/tyler-akidau"><img src="/wp-content/themes/kafkasummit/images/tyler-akidau.png" alt="Tyler Akidau" class="img-responsive thumbnail"><p>Tyler Akidau</p></a></div>
       <div class="col-md-2"><a href="/people/joe-crobak"><img src="/wp-content/themes/kafkasummit/images/joe-crobak.png" alt="Joe Crobak" class="img-responsive thumbnail"><p>Joe Crobak</p></a></div>
       <div class="col-md-2"><a href="/people/jun-rao"><img src="/wp-content/themes/kafkasummit/images/jun-rao.png" alt="Jun Rao" class="img-responsive thumbnail"><p>Jun Rao</p></a></div>
-      <div class="col-md-2"><a href="/people/joe-stein"><img src="/wp-content/themes/kafkasummit/images/joe-stein.png" alt="Joe Stein" class="img-responsive thumbnail"><p>Joe Stein</p></a></div>
-      <div class="col-md-2"><a href="/people/"><img src="/wp-content/themes/kafkasummit/images/neha-narkhede.png" alt="" class="img-responsive thumbnail"><p>TBD</p></a></div>
+      <div class="col-md-2"><a href="/people/gwen-shapira"><img src="/wp-content/themes/kafkasummit/images/gwen-shapira.png" alt="Gwen Shapira" class="img-responsive thumbnail"><p>Gwen Shapira</p></a></div>      
+      <div class="col-md-2"><a href="/people/joe-stein"><img src="/wp-content/themes/kafkasummit/images/joe-stein.png" alt="Joe Stein" class="img-responsive thumbnail"><p>Joe Stein</p></a></div>      
     </div>
   </div>
 </div>
