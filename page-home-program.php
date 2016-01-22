@@ -49,7 +49,7 @@
   <div class="container">
     <div class="row">
     <div class="col-md-12">
-      <h3>Kafka Summit Program Committee</h3>
+      <h2>Kafka Summit Program Committee</h2>
     </div>
     </div>
   </div>
