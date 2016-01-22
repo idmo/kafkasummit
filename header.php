@@ -10,6 +10,7 @@
         <title><?php wp_title( '| Kafka Summit 2016', true, 'right' ) ?></title>
 		<meta name="author" content="">
 		<link rel="author" href="">
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
 		<?php wp_head() ?>
 
     </head>

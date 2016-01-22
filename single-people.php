@@ -13,7 +13,8 @@
 	<div class="row">
 		<div class="col-md-8">
 			<?php get_template_part('clip', 'single'); ?>
-			<a href="http://www.twitter.com/<?php the_field('twitter_handle') ?>"><i class="icon-twitter"></i> <?php the_field('twitter_handle') ?></a>
+			<a href="https://www.linkedin.com/in/<?php the_field('linkedin_profile') ?>"><i class="fa fa-linkedin-square fa-lg"></i></a> 
+			<a href="http://www.twitter.com/<?php the_field('twitter_handle') ?>"><?php the_field('twitter_handle') ?></a>			
 		</div>
 		<div class="col-md-4">
 			<img class="img-responsive pull-right thumbnail" src="<?php the_field('photo') ?>" alt="<?php the_field('title') ?>"> 
