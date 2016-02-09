@@ -56,18 +56,19 @@
 <div class="row">
 	<div class="col-md-6">
 		<h3>Community Partner</h3>
-		<img src="/wp-content/themes/kafkasummit/images/apache-foundation.png" alt="Apache Foundation" class="img-responsive">
+		<img src="<?php echo get_template_directory_uri() ?>/images/apache-foundation.png" alt="Apache Foundation" class="img-responsive">
 	</div>
 	<div class="col-md-6">
 		<h3>Media Partner</h3>
-		<img src="/wp-content/themes/kafkasummit/images/oreilly.png" alt="O'Reilly" class="img-responsive">
+		<img src="<?php echo get_template_directory_uri() ?>/images/oreilly.png" alt="O'Reilly" class="img-responsive">
 	</div>
 </div>
 <hr>
 <div class="row">
 	<div class="md-col-12">
 		<h3>Organized By</h3>
-		<img src="/wp-content/themes/kafkasummit/images/confluent.png" alt="O'Reilly" class="img-responsive">
+		
+		<img src="<?php echo get_template_directory_uri() ?>/images/confluent.png" alt="O'Reilly" class="img-responsive">
 	</div>
 </div>
 </div>
