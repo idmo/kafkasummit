@@ -306,3 +306,56 @@ div.input input {
 .hs-richtext {
 	margin-bottom: 5px;
 }
+
+/* Schedule */
+body.post-type-archive-sessions {
+	background: none;
+}
+#schedule {
+	h1 {
+		padding-bottom: 30px;
+	}
+	#general-session {
+		border-bottom: 1px dashed #dddddd;
+	}
+	table {
+		font-size: 16px;
+		tr {
+			
+		}
+		th {
+			padding: 20px 12px;
+			text-transform: uppercase;
+			font-size: 14px;
+		}
+		td {
+			padding: 12px 12px;
+			vertical-align: top;
+			border-top: 1px dashed #dddddd;			
+		}
+		.time {
+			width: 20%;
+			text-align: right;
+			font-size: 12px;
+			text-transform: uppercase;
+			// border-right: 1px solid #eee;
+			border-top: none;
+			vertical-align: middle;
+		}
+		.break {
+			text-align: center;
+			font-weight: bold;
+			color: #999;
+			padding: 6px;
+			border-radius: 6px;
+			background-color: #eee;
+			
+		}
+	}
+}
+
+body.post-type-archive-people {
+	.thumbnail {
+		margin-bottom: 0;
+	}
+}
