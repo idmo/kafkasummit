@@ -1,4 +1,6 @@
 <?php get_header( ); ?>
+
+
 <div class="slide" id="schedule">
 	<div class="container">
 		<div class="row">
