@@ -2,6 +2,13 @@
 					'post_type' => 	'People',
 					'orderby' 	=> 	'title',
 					'order'		=>	'ASC',
+					'tax_query'	=>	array(
+						array(
+								'taxonomy' 	=> 	'session_participants',
+								'field'		=>	'slug',
+								'terms' 	=>	'speaker',
+							),
+						),
 					);
 	
 	$my_query = new WP_Query($args);
@@ -23,7 +30,10 @@
 			</div>
 			<div class="media-body">
 				<h3 class="media-heading"><?php the_title(); ?> <small><a href="http://www.twitter.com/<?php the_field('twitter_handle') ?>"><?php the_field('twitter_handle') ?></a> <?php the_field('title') ?>, <?php the_field('organization') ?></small></h3>
-				<!-- removed sessions for now, get code from test-people.php -->
+					<?php $speaker_sessions = get_field('sessions') ?>
+					<?php foreach ($speaker_sessions as $post) : ?>
+						<div><?php the_title( ); ?>, <?php the_field('location'); ?></div>
+					<?php endforeach ?>
 			</div>
 		</div>
 		<!-- end speaker entry -->

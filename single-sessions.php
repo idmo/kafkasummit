@@ -19,10 +19,7 @@
 				    <?php wp_reset_postdata(); // IMPORTANT - reset the $post object so the rest of the page works correctly ?>
 				<?php endif;
 				?>
-				<h4>Prerequisite Knowledge</h4>
-				<?php the_field('prerequisite_knowledge') ?>
-				<p><strong>Location</strong> <?php the_field('location') ?></p>
-				<hr>
+				
 				<h2>Description</h2>
 				<?php get_template_part('clip', 'single'); ?>
 			</div>
