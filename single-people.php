@@ -25,6 +25,7 @@
 			<?php foreach ($speaker_sessions as $post) : ?>
 				<p class="session-title"><a href="<?php the_permalink(); ?>"><?php the_title( ); ?></a></p>
 				<div><?php the_field('Time') ?><br><?php the_field('location'); ?></div>
+				<p><?php the_excerpt(); ?></p>
 			<?php endforeach ?>
 			<?php wp_reset_postdata(); ?>
 			<?php endif; ?>
