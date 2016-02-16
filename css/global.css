@@ -558,6 +558,9 @@ body.post-type-archive-sponsor h3 {
 body.single-sessions h3 {
   color: #000;
 }
+body.single-sessions a {
+  color: #000;
+}
 
 iframe {
   min-height: 0;

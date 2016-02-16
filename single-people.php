@@ -20,9 +20,11 @@
 				<a href="http://www.twitter.com/<?php the_field('twitter_handle') ?>"><?php the_field('twitter_handle') ?></a>
 			<?php endif; ?>
 			<?php if( get_field('sessions')): ?>
+			<h3>Sessions</h3>
 			<?php $speaker_sessions = get_field('sessions') ?>
 			<?php foreach ($speaker_sessions as $post) : ?>
-				<div><a href="<?php the_permalink(); ?>"><?php the_title( ); ?></a>, <?php the_field('location'); ?></div>
+				<p class="session-title"><a href="<?php the_permalink(); ?>"><?php the_title( ); ?></a></p>
+				<div><?php the_field('Time') ?><br><?php the_field('location'); ?></div>
 			<?php endforeach ?>
 			<?php wp_reset_postdata(); ?>
 			<?php endif; ?>
