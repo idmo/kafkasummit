@@ -19,12 +19,21 @@
 			<?php if( get_field('twitter_handle')): ?>
 				<a href="http://www.twitter.com/<?php the_field('twitter_handle') ?>"><?php the_field('twitter_handle') ?></a>
 			<?php endif; ?>
+			<?php if( get_field('sessions')): ?>
+			<?php $speaker_sessions = get_field('sessions') ?>
+			<?php foreach ($speaker_sessions as $post) : ?>
+				<div><a href="<?php the_permalink(); ?>"><?php the_title( ); ?></a>, <?php the_field('location'); ?></div>
+			<?php endforeach ?>
+			<?php wp_reset_postdata(); ?>
+			<?php endif; ?>
+
 		</div>
 		<div class="col-md-4">
 			<img class="img-responsive pull-right thumbnail" src="<?php the_field('photo') ?>" alt="<?php the_field('title') ?>"> 
 		</div>
 	</div>
 </div>
+
 
 
 
