@@ -5,20 +5,8 @@
 		<div class="row">
 			<div class="col-md-12">
 				<h3><?php the_title( ); ?></h3>
-				<p><?php the_field('date') ?></p>
-				<?php
-
-				$post_objects = get_field('speaker');
-
-				if( $post_objects ): ?>
-				    <?php foreach( $post_objects as $post): // variable must be called $post (IMPORTANT) ?>
-				        <?php setup_postdata($post); ?>
-				            <?php the_title(); ?>, 
-				            <span><?php the_field('title'); ?> <?php the_field('organization'); ?></span>
-				    <?php endforeach; ?>
-				    <?php wp_reset_postdata(); // IMPORTANT - reset the $post object so the rest of the page works correctly ?>
-				<?php endif;
-				?>
+				<p><?php the_field('date') ?> <?php the_field('location'); ?></p>
+				
 				
 				<h2>Description</h2>
 				<?php get_template_part('clip', 'single'); ?>
@@ -32,7 +20,7 @@
 	<div class="container">
 		<div class="row">
 		<div class="col-md-12">
-		<h4>Speakers</h4>
+		<h3>Speakers</h3>
 		<?php
 			$post_objects = get_field('speaker');
 				if( $post_objects ): ?>
