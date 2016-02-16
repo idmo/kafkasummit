@@ -29,7 +29,7 @@
 				</a>
 			</div>
 			<div class="media-body">
-				<h3 class="media-heading"><?php the_title(); ?> <small><a href="http://www.twitter.com/<?php the_field('twitter_handle') ?>"><?php the_field('twitter_handle') ?></a> <?php the_field('title') ?>, <?php the_field('organization') ?></small></h3>
+				<h3 class="media-heading"><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a> <small><a href="http://www.twitter.com/<?php the_field('twitter_handle') ?>"><?php the_field('twitter_handle') ?></a> <?php the_field('title') ?>, <?php the_field('organization') ?></small></h3>
 
 					<?php $speaker_sessions = get_field('sessions') ?>
 					<?php foreach ($speaker_sessions as $post) : ?>

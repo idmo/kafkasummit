@@ -543,6 +543,9 @@ body.post-type-archive-sessions {
 body.post-type-archive-people .thumbnail {
   margin-bottom: 0;
 }
+body.post-type-archive-people a {
+  color: #000;
+}
 
 body.post-type-archive-sponsor {
   background: none;

@@ -10,11 +10,6 @@
 					 ?>
 
 
-
-
-
-
-
 <div class="container">
 <h1>Sponsors</h1>
 <div class="row">
