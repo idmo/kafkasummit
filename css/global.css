@@ -566,11 +566,17 @@ body.page-template-page-schedule {
   background: none;
 }
 
-#schedule a.session {
+#schedule th {
+  width: 25%;
+}
+#schedule span.session {
   color: #000;
   font-weight: bold;
 }
-#schedule a.session:hover {
+#schedule span.session a {
+  color: #000;
+}
+#schedule span.session a:hover {
   text-decoration: underline;
 }
 #schedule a.speaker {

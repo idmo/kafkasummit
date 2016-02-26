@@ -385,12 +385,17 @@ body.page-template-page-schedule {
 }
 
 #schedule {
-
-	a.session {
+	th {
+		width: 25%;
+	}
+	span.session  {
 		color: #000;
 		font-weight: bold;
-		&:hover {
+		a {
+			color: #000;
+			&:hover {
 			text-decoration: underline;
+		}
 		}
 	}
 	a.speaker {

@@ -7,7 +7,7 @@
 		<div class="row">
 			<div class="col-md-12">
 				<h1>Speakers</h1>
-				<p>The speaker list will be updated as more information comes in</p>
+				<p>This is a partial list of the speakers. More details will be published soon.</p>
 			</div>
 		</div>
 		<div class="row">
