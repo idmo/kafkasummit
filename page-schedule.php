@@ -1,3 +1,11 @@
+<?php 
+/**
+ * Template Name: Schedule
+ *
+ */
+
+ ?>
+
 <?php get_header( ); ?>
 
 

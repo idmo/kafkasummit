@@ -381,3 +381,19 @@ body.single-sessions {
 	}
 }
 
+
+#schedule {
+	a.session {
+		color: #000;
+		font-weight: bold;
+		&:hover {
+			text-decoration: underline;
+		}
+	}
+	a.speaker {
+		color: #666;
+		&:hover {
+			text-decoration: underline;
+		}
+	}
+}

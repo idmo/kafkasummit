@@ -562,6 +562,20 @@ body.single-sessions a {
   color: #000;
 }
 
+#schedule a.session {
+  color: #000;
+  font-weight: bold;
+}
+#schedule a.session:hover {
+  text-decoration: underline;
+}
+#schedule a.speaker {
+  color: #666;
+}
+#schedule a.speaker:hover {
+  text-decoration: underline;
+}
+
 iframe {
   min-height: 0;
   max-height: 300px;
