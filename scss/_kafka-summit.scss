@@ -380,9 +380,12 @@ body.single-sessions {
 		color: #000;
 	}
 }
-
+body.page-template-page-schedule {
+	background: none;
+}
 
 #schedule {
+
 	a.session {
 		color: #000;
 		font-weight: bold;
