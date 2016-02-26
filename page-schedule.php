@@ -53,7 +53,7 @@
 					<tr>
 						<td class="time">1:30 PM - 2:10 PM</td>
 						<td>&nbsp;</td>
-						<td><a href="http://kafka-summit.org/sessions/some-kafkaesque-days-in-operations-at-linkedin-in-2015/" class="session">Some “Kafkaesque” days in operations at Linkedin in 2015</a><br>LinkedIn, Joel Koshy</td>
+						<td>Some “Kafkaesque” days in operations at Linkedin in 2015<br>LinkedIn, Joel Koshy</td>
 						<td><a href="http://kafka-summit.org/sessions/the-enterprise-service-bus-is-dead-long-live-the-enterprise-service-bus/" class="session">The enterprise service bus is dead! Long live the enterprise service bus</a><br>Heroku, <a href="http://kafka-summit.org/speakers/rimas-silkaitis/" class="speaker">Rimas Silkaitis</a></td>
 					</tr>
 					<tr>
