@@ -27,13 +27,13 @@
 		
 <?php
 	//Set the span to our default span12
-	$span = 'col-md-6';
+	$span = 'col-md-3';
 	//If the count is 2 or 3 change span to be span3. You can put whatever conditions you want here
 	if($count == 2 || $count == 3){
    	$span = 'col-md-3';
 	}
 	//If the count is equal to 3 or higher (which it should not be) then reset the count to 0
-	if($count >= 4){
+	if($count >= 3){
    	$count = 0;
 	}
 	//If its not 3 or higher, increase the count

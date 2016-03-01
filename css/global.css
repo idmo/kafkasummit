@@ -547,10 +547,10 @@ body.post-type-archive-people a {
   color: #000;
 }
 
-body.post-type-archive-sponsor {
+body.post-type-archive-sponsor, body.page-template-page-sponsors {
   background: none;
 }
-body.post-type-archive-sponsor h3 {
+body.post-type-archive-sponsor h3, body.page-template-page-sponsors h3 {
   text-align: center;
   margin-bottom: 16px;
 }
