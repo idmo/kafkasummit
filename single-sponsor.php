@@ -3,7 +3,7 @@
 <div class="container">
 	<div class="row">
 		<div class="col-md-8">
-			<h2><a href="<?php the_permalink(); ?>"><?php the_title( ); ?></a></h2>
+			<h2><a href="<?php the_field('web_address'); ?>"><?php the_title( ); ?></a></h2>
 			<?php get_template_part('clip','single'); ?>
 		</div>
 		<div class="col-md-4">
