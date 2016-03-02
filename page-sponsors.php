@@ -42,7 +42,7 @@
 	}
 ?>
 
-	<div class="<?php echo $span; ?>">
+	<div class="<?php echo $span; ?> logo">
 	<a href="<?php the_permalink(); ?>">
 		<img src="<?php the_field('logo') ?>" alt="<?php the_title( ); ?>" class="img-responsive">
 	</a>
@@ -56,6 +56,17 @@
 
 </div>
 
+<hr>
+<div class="row">
+	<div class="col-md-12">
+		<h3>Media Partner</h3>
+	</div>
+</div>
+<div class="row">
+	<div class="col-md-6 col-md-offset-3">
+		<img src="<?php echo get_template_directory_uri() ?>/images/apache-foundation.png" alt="Apache Software Foundation" class="img-responsive">
+	</div>
+</div>
 
 <hr>
 <div class="row">

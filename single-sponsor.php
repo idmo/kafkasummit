@@ -1,5 +1,21 @@
-<?php get_header( ); ?>
+<?php get_header(); ?>
 
-<h1><?php get_the_title( ); ?></h1>
-Here goes the sponsor
-<?php get_footer( ); ?>
+<div class="container">
+	<div class="row">
+		<div class="col-md-8">
+			<h2><a href="<?php the_permalink(); ?>"><?php the_title( ); ?></a></h2>
+			<?php get_template_part('clip','single'); ?>
+		</div>
+		<div class="col-md-4">
+			<img class="img-responsive pull-right" src="<?php the_field('logo') ?>" alt="<?php the_field('title') ?>"> 
+		</div>
+	</div>
+</div>
+
+
+
+
+
+<?php get_footer(); ?>
+
+

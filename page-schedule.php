@@ -14,8 +14,13 @@
 		
 		<div class="row">
 			<div class="col-md-12">
+
 			<div>
 			<table class="table">
+					<tr>
+						<td class="time">&nbsp;</td>
+						<td colspan="3"><em>Times are subject to change</em></td>
+					</tr>
 					<tr>
 						<td class="time">&nbsp;</td>
 						<td colspan="3"><div class="break">Check-in 7:00 AM - 5:00 PM</div></td>
@@ -86,7 +91,7 @@
 					</tr>
 					<tr>
 						<td class="time">&nbsp;</td>
-						<td colspan="3"><div class="break">Kafka-Palooza 5:45 PM - 9:00 PM</div></td>
+						<td colspan="3"><div class="break">Kafka-Palooza Party 5:45 PM - 9:00 PM</div></td>
 					</tr>
 				</table>
 				</div>
