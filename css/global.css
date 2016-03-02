@@ -509,6 +509,7 @@ body.post-type-archive-sessions {
 }
 #schedule #general-session {
   border-bottom: 1px dashed #dddddd;
+  text-align: center;
 }
 #schedule table {
   font-size: 16px;
