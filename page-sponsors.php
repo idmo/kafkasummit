@@ -59,10 +59,11 @@
 
 <hr>
 <div class="row">
-	<div class="md-col-12">
-		<h3>Organized By</h3>
-		
-		<img src="<?php echo get_template_directory_uri() ?>/images/confluent.png" alt="O'Reilly" class="img-responsive">
+	<div class="col-md-12"><h3>Organized By</h3></div>
+</div>
+<div class="row">
+	<div class="col-md-6 col-md-offset-3">
+		<img src="<?php echo get_template_directory_uri() ?>/images/confluent.png" alt="Confluent" class="img-responsive">
 	</div>
 </div>
 </div>
