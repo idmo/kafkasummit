@@ -524,6 +524,9 @@ body.post-type-archive-sessions {
   vertical-align: top;
   border-top: 1px dashed #dddddd;
 }
+#schedule table td p {
+  font-size: 80%;
+}
 #schedule table .time {
   width: 20%;
   text-align: right;

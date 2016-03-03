@@ -332,7 +332,10 @@ body.post-type-archive-sessions {
 		td {
 			padding: 12px 12px;
 			vertical-align: top;
-			border-top: 1px dashed #dddddd;			
+			border-top: 1px dashed #dddddd;
+			p {
+				font-size: 80%;
+			}			
 		}
 		.time {
 			width: 20%;
