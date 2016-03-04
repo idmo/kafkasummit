@@ -344,7 +344,7 @@ body.post-type-archive-sessions {
 			text-transform: uppercase;
 			// border-right: 1px solid #eee;
 			border-top: none;
-			vertical-align: middle;
+			// vertical-align: middle;
 		}
 		.break {
 			text-align: center;
@@ -402,7 +402,7 @@ body.page-template-page-schedule {
 		color: $color_primary;
 	}
 
-	span.session  {
+	span.session, p.session  {
 		color: #000;
 		font-weight: bold;
 		a {

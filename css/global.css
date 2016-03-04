@@ -536,7 +536,6 @@ body.post-type-archive-sessions {
   font-size: 12px;
   text-transform: uppercase;
   border-top: none;
-  vertical-align: middle;
 }
 #schedule table .break {
   text-align: center;
@@ -582,14 +581,14 @@ body.page-template-page-schedule {
 #schedule tr.tracks {
   color: magenta;
 }
-#schedule span.session {
+#schedule span.session, #schedule p.session {
   color: #000;
   font-weight: bold;
 }
-#schedule span.session a {
+#schedule span.session a, #schedule p.session a {
   color: #000;
 }
-#schedule span.session a:hover {
+#schedule span.session a:hover, #schedule p.session a:hover {
   text-decoration: underline;
 }
 #schedule a.speaker {

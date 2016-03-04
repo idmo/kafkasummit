@@ -12,6 +12,7 @@
 	</div>
 	<div class="row">
 		<div class="col-md-8">
+		<img class="img-responsive pull-right img-rounded" src="<?php the_field('photo') ?>" alt="<?php the_field('title') ?>" width="220" height="220"> 
 			<?php get_template_part('clip', 'single'); ?>
 			<?php if( get_field('linkedin_profile')): ?>
 				<a href="https://www.linkedin.com/in/<?php the_field('linkedin_profile') ?>"><i class="fa fa-linkedin-square fa-lg"></i></a> 
@@ -29,10 +30,6 @@
 			<?php endforeach ?>
 			<?php wp_reset_postdata(); ?>
 			<?php endif; ?>
-
-		</div>
-		<div class="col-md-4">
-			<img class="img-responsive pull-right thumbnail" src="<?php the_field('photo') ?>" alt="<?php the_field('title') ?>"> 
 		</div>
 	</div>
 </div>
