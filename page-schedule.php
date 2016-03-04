@@ -43,7 +43,7 @@
 						<td class="time">10:50 AM - 11:30 AM</td>
 						<td><span class="session"><a href=" http://kafka-summit.org/sessions/fundamentals-of-stream-processing/ ">Fundamentals of Stream Processing with Apache Beam</a></span><br>Google, <a href="http://kafka-summit.org/speakers/frances-perry/" class="speaker">Frances Perry</a> &amp; <a href="http://kafka-summit.org/speakers/tyler-akidau/" class="speaker">Tyler Akidau</a></td>
 						<td><span class="session"><a href="http://kafka-summit.org/sessions/real-time-data-cloud-scale/">Kafka at Scale in Cloud</a></span><br>Netflix, <a href="http://kafka-summit.org/speakers/allen-wang/" class="speaker">Allen Wang</a></td>
-						<td><span class="session">Stream Processing with Kafka in Uber</span><br>Uber, <a href="http://kafka-summit.org/speakers/danny-yuan/" class="speaker">Danny Yuan</a></td>
+						<td><span class="session"><a href="http://kafka-summit.org/sessions/stream-processing-with-kafka-in-uber/">Stream Processing with Kafka in Uber</a></span><br>Uber, <a href="http://kafka-summit.org/speakers/danny-yuan/" class="speaker">Danny Yuan</a></td>
 					</tr>
 					<tr>
 						<td class="time">11:40 AM - 12:20 PM</td>
