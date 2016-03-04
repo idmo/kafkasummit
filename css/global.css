@@ -527,6 +527,9 @@ body.post-type-archive-sessions {
 #schedule table td p {
   font-size: 80%;
 }
+#schedule table td.disclaimer {
+  border-top: none;
+}
 #schedule table .time {
   width: 20%;
   text-align: right;
@@ -575,6 +578,9 @@ body.page-template-page-schedule {
 }
 #schedule th {
   width: 25%;
+}
+#schedule tr.tracks {
+  color: magenta;
 }
 #schedule span.session {
   color: #000;

@@ -321,9 +321,6 @@ body.post-type-archive-sessions {
 	}
 	table {
 		font-size: 16px;
-		tr {
-			
-		}
 		th {
 			padding: 20px 12px;
 			text-transform: uppercase;
@@ -332,9 +329,12 @@ body.post-type-archive-sessions {
 		td {
 			padding: 12px 12px;
 			vertical-align: top;
-			border-top: 1px dashed #dddddd;
+			border-top: 1px dashed #dddddd;			
 			p {
 				font-size: 80%;
+			}
+			&.disclaimer {
+				border-top: none;
 			}			
 		}
 		.time {
@@ -398,6 +398,10 @@ body.page-template-page-schedule {
 	th {
 		width: 25%;
 	}
+	tr.tracks {
+		color: $color_primary;
+	}
+
 	span.session  {
 		color: #000;
 		font-weight: bold;

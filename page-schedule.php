@@ -19,11 +19,11 @@
 			<table class="table">
 					<tr>
 						<td class="time">&nbsp;</td>
-						<td colspan="3"><em>Times are subject to change</em></td>
+						<td colspan="3" class="disclaimer"><em>Times are subject to change</em></td>
 					</tr>
 					<tr>
 						<td class="time">&nbsp;</td>
-						<td colspan="3"><div class="break">Check-in 7:00 AM - 5:00 PM</div></td>
+						<td colspan="3"><div class="break">Check-in 7:30 AM - 5:00 PM</div></td>
 					</tr>
 					<tr>
 						<td class="time">&nbsp;</td>
@@ -33,7 +33,7 @@
 						<td class="time">9:00 AM - 10:30 AM</td>
 						<td colspan="3" id="general-session"><strong>General Session</strong></td>
 					</tr>
-					<tr>
+					<tr class="tracks">
 						<th>&nbsp;</th>
 						<th>Systems Track</th>
 						<th>Operations Track</th>
