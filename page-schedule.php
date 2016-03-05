@@ -27,11 +27,19 @@
 					</tr>
 					<tr>
 						<td class="time">&nbsp;</td>
+						<td colspan="3"><div class="break">Community Room / Exhibit Hall 7:30 AM - 3:30 PM</div></td>
+					</tr>
+					<tr>
+						<td class="time">&nbsp;</td>
 						<td colspan="3"><div class="break">Breakfast 7:30 AM - 9:00 AM</div></td>
 					</tr>
 					<tr>
 						<td class="time">9:00 AM - 10:30 AM</td>
 						<td colspan="3" id="general-session"><strong>General Session</strong></td>
+					</tr>
+					<tr>
+						<td class="time">&nbsp;</td>
+						<td colspan="3"><div class="break">Break</div></td>
 					</tr>
 					<tr class="tracks">
 						<th>&nbsp;</th>
