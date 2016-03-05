@@ -89,7 +89,7 @@
 						<td class="time">4:10 PM - 4:50 PM</td>
 						<td><span class="session"><a href="http://kafka-summit.org/sessions/simplifying-event-streaming-tools-for-location-transparency-and-data-evolution/">Simplifying Event Streaming: Tools for Location Transparency and Data Evolution</a></span><br>Under Armour, <a href="http://kafka-summit.org/speakers/paul-osman/" class="speaker">Paul Osman</a></td>
 						<td><span class="session"><a href="http://kafka-summit.org/sessions/building-an-event-oriented-data-platform-with-kafka/">Building an event-oriented data platform with Kafka</a></span><br>Rocana, <a href="http://kafka-summit.org/speakers/eric-sammer/" class="speaker">Eric Sammer</a></td>
-						<td><span class="session">Lightening Track</span><br>		
+						<td><span class="session">Lightning Track</span><br>		
 						<p><span class="session">Towards A Stream Centered Enterprise</span>, Comcast, Gabe Commeau</p>
 						<p><span class="session"><a href="http://kafka-summit.org/sessions/kafka-the-dialtone-for-data-building-a-self-service-scalable-streaming-analytics-system-homeaway/">Kafka, the "DialTone for Data": Building a self-service, scalable, streaming analytics system @ HomeAway</span></a>, Homeaway, <a href="http://kafka-summit.org/speakers/rene-parra/" class="speaker">Rene Parra</a></p>
 						<p><span class="session"><a href="http://kafka-summit.org/sessions/kafka-killer-of-point-to-point-integrations/">Kafka, Killer of Point-to-Point Integrations</a></span>, Intuit, <a href="http://kafka-summit.org/speakers/lucian-lita/" class="speaker">Lucian Lita</a></p>
@@ -99,7 +99,7 @@
 						<td class="time">5:00 PM - 5:40 PM</td>
 						<td><span class="session"><a href="http://kafka-summit.org/sessions/streaming-sql-2/">Streaming SQL</a></span><br>Hortonworks, <a href="http://kafka-summit.org/speakers/julian-hyde-2/" class="speaker">Julian Hyde</a></td>
 						<td><span class="session"><a href="http://kafka-summit.org/sessions/deploying-kafka-at-dropbox/">Deploying Kafka at Dropbox</a></span><br>Dropbox, Mark Smith &amp; <a href="http://kafka-summit.org/speakers/sean-fellows/" class="speaker">Sean Fellows</a></td>
-						<td><span class="session">Lightening Track</span>
+						<td><span class="session">Lightning Track</span>
 						<p><span class="session"><a href="http://kafka-summit.org/sessions/ingesting-complex-healthcare-data-with-apache-kafka/">Ingesting Complex Healthcare Data with Apache Kafka</a></span>, Cerner, <a href="http://kafka-summit.org/speakers/micah-whitacre/" class="speaker">Micah Whitacre</a></p>
 						<p><span class="session"><a href="http://kafka-summit.org/sessions/kafka-and-stream-processing-taking-analytics-real-time/">Kafka and Stream processing, Taking Analytics Real-time</a></span>, <a href="http://kafka-summit.org/speakers/mike-spicer/" class="speaker">Mike Spicer</a></p>
 						<p><span class="">Never at rest - IoT and Data streaming at British Gas Connected Homes</span>,  Paul Makkar</p>
