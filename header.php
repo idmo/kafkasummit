@@ -11,7 +11,9 @@
 		<meta name="author" content="">
 		<link rel="author" href="">
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+		<link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/js/vendor/Swiper/dist/css/swiper.min.css">
 		<?php wp_head() ?>
+
 
     </head>
     <body <?php body_class() ?>>

@@ -1,7 +1,7 @@
 require.config({
-	"baseUrl": "content/themes/kafkasummit/js",
+	"baseUrl": "wp-content/themes/kafkasummit/js",
 	"paths": {
-		"jquery": "vendor/jquery/jquery"
+		"jquery": "vendor/jquery/jquery.min"
 	}
 });
 

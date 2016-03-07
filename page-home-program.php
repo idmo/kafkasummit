@@ -45,6 +45,37 @@
 </div>
 
 
+<div id="sponsors" class="slide">
+<div class="container">
+  <div class="row">
+  <div class="col-md-12">
+  <h2>Sponsors</h2>
+    <div class="swiper-container">
+        <div class="swiper-wrapper">
+            <div class="swiper-slide">
+              <img src="http://kafka-summit.org/wp-content/uploads/2016/03/signal-fx.png" alt="Signal FX" class="img-responsive center-block">
+            </div>
+            <div class="swiper-slide">
+              <img src="http://kafka-summit.org/wp-content/uploads/2016/03/datadog.png" alt="Data Dog" class="img-responsive center-block">
+            </div>
+            <div class="swiper-slide">
+              <img src="http://kafka-summit.org/wp-content/uploads/2016/03/qubole.png" alt="Quoble" class="img-responsive center-block">
+            </div>
+            <div class="swiper-slide">
+              <img src="http://kafka-summit.org/wp-content/uploads/2016/03/mapr.png" alt="Mapr" class="img-responsive center-block">
+            </div>
+            <div class="swiper-slide">
+              <img src="http://kafka-summit.org/wp-content/uploads/2016/03/heroku.png" alt="Heroku" class="img-responsive center-block">
+            </div>
+        </div>
+        <!-- Add Pagination -->
+        <p>Interested in sponsoring Kafka Summit? Contact <a href="mailto:organizers@kafka-summit.org">organizers@kafka-summit.org</a>.</p>
+    </div>    
+    </div>
+  </div>
+</div>
+</div>
+
 <div class="slide" id="program-committee">
   <div class="container">
     <div class="row">
@@ -66,6 +97,22 @@
   </div>
 </div>
 
+
+<!-- Swiper JS -->
+    <script src="<?php echo get_template_directory_uri(); ?>/js/vendor/Swiper/dist/js/swiper.min.js"></script>
+
+    <!-- Initialize Swiper -->
+    <script>
+    var swiper = new Swiper('.swiper-container', {
+        pagination: '.swiper-pagination',
+        slidesPerView: 4,
+        paginationClickable: true,
+        spaceBetween: 30,
+        loop: true,
+        autoplay: 2500,
+        autoplayDisableOnInteraction: false
+    });
+    </script>
 
 
 <!-- Footer -->
