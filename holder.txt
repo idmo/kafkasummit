@@ -1,0 +1,11 @@
+holder
+
+<div id="sponsors" class="slide" style="background-color: #d7d7d7;">
+<div class="container">
+<div class="col-md-12">
+<h2>Sponsorship</h2>
+Interested in sponsoring Kafka Summit? Contact <a href="mailto:organizers@kafka-summit.org">organizers@kafka-summit.org</a>.
+
+</div>
+</div>
+</div>
