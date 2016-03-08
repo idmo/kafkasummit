@@ -39,7 +39,7 @@
 					</tr>
 					<tr>
 						<td class="time">&nbsp;</td>
-						<td colspan="3"><div class="break">Break</div></td>
+						<td colspan="3"><div class="break">Break 10:30 AM - 10:50 AM</div></td>
 					</tr>
 					<tr class="tracks">
 						<th>&nbsp;</th>
@@ -65,7 +65,7 @@
 					</tr>
 					<tr>
 						<td class="time">1:30 PM - 2:10 PM</td>
-						<td><!-- <span class="session">Kafka Streams</span><br>Confluent, <a href="http://kafka-summit.org/speakers/neha-narkhede/" class="speaker">Neha Narkhede</a> --></td>
+						<td><span class="session"><a href="http://kafka-summit.org/sessions/introducing-kafka-streams-large-scale-stream-processing-with-kafka/">Introducing Kafka Streams: Large-scale Stream Processing with Kafka</a></span><br>Confluent, <a href="http://kafka-summit.org/speakers/neha-narkhede/" class="speaker">Neha Narkhede</a></td>
 						<td><span class="session"><a href="http://kafka-summit.org/sessions/some-kafkaesque-days-in-operations-at-linkedin-in-2015/">Some “Kafkaesque” Days in Operations at Linkedin in 2015</a></span><br>LinkedIn, <a href="http://kafka-summit.org/speakers/joel-koshy/" class="speaker">Joel Koshy</a></td>
 						<td><span class="session"><a href="http://kafka-summit.org/sessions/the-enterprise-service-bus-is-dead-long-live-the-enterprise-service-bus/" class="session">The Enterprise Service Bus is Dead! Long live the Enterprise Service Bus</a></span><br>Heroku, <a href="http://kafka-summit.org/speakers/rimas-silkaitis/" class="speaker">Rimas Silkaitis</a></td>
 					</tr>
@@ -90,7 +90,7 @@
 						<td><span class="session"><a href="http://kafka-summit.org/sessions/simplifying-event-streaming-tools-for-location-transparency-and-data-evolution/">Simplifying Event Streaming: Tools for Location Transparency and Data Evolution</a></span><br>Under Armour, <a href="http://kafka-summit.org/speakers/paul-osman/" class="speaker">Paul Osman</a></td>
 						<td><span class="session"><a href="http://kafka-summit.org/sessions/building-an-event-oriented-data-platform-with-kafka/">Building an Eevent-oriented Data Platform with Kafka</a></span><br>Rocana, <a href="http://kafka-summit.org/speakers/eric-sammer/" class="speaker">Eric Sammer</a></td>
 						<td><span class="session">Lightning Sessions</span><br>		
-						<p><span class="session">Towards A Stream Centered Enterprise</span> Comcast, Gabe Commeau</p>
+						<p><span class="session"><a href="Towards A Stream Centered Enterprise">Towards A Stream Centered Enterprise</a></span> Comcast, <a href="http://kafka-summit.org/speakers/gabe-commeau/" class="speaker">Gabe Commeau</a></p>
 						<p><span class="session"><a href="http://kafka-summit.org/sessions/kafka-the-dialtone-for-data-building-a-self-service-scalable-streaming-analytics-system-homeaway/">Kafka, the "DialTone for Data": Building a self-service, scalable, streaming analytics system @ HomeAway</span></a> Homeaway, <a href="http://kafka-summit.org/speakers/rene-parra/" class="speaker">Rene Parra</a></p>
 						<p><span class="session"><a href="http://kafka-summit.org/sessions/kafka-killer-of-point-to-point-integrations/">Kafka, Killer of Point-to-Point Integrations</a></span> Intuit, <a href="http://kafka-summit.org/speakers/lucian-lita/" class="speaker">Lucian Lita</a></p>
 						</td>

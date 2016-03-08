@@ -54,27 +54,27 @@
         <div class="swiper-wrapper">
             <div class="swiper-slide">
               <a href="http://kafka-summit.org/sponsors/signalfx/">
-              <img src="http://kafka-summit.org/wp-content/uploads/2016/03/signal-fx.png" alt="Signal FX" class="img-responsive center-block">
+              <img src="http://kafka-summit.org/wp-content/uploads/2016/03/signal-fx.png" alt="Signal FX" class="img-responsive center-block" width="75%"> 
               </a>
             </div>
             <div class="swiper-slide">
               <a href="http://kafka-summit.org/sponsors/data-dog/">
-              <img src="http://kafka-summit.org/wp-content/uploads/2016/03/datadog.png" alt="Data Dog" class="img-responsive center-block">
+              <img src="http://kafka-summit.org/wp-content/uploads/2016/03/datadog.png" alt="Data Dog" class="img-responsive center-block" width="75%">
               </a>
             </div>
             <div class="swiper-slide">
               <a href="http://kafka-summit.org/sponsors/qubole/">
-              <img src="http://kafka-summit.org/wp-content/uploads/2016/03/qubole.png" alt="Quoble" class="img-responsive center-block">
+              <img src="http://kafka-summit.org/wp-content/uploads/2016/03/qubole.png" alt="Quoble" class="img-responsive center-block" width="75%">
               </a>
             </div>
             <div class="swiper-slide">
               <a href="http://kafka-summit.org/sponsors/mapr/">
-              <img src="http://kafka-summit.org/wp-content/uploads/2016/03/mapr.png" alt="Mapr" class="img-responsive center-block">
+              <img src="http://kafka-summit.org/wp-content/uploads/2016/03/mapr.png" alt="Mapr" class="img-responsive center-block" width="75%">
               </a>
             </div>
             <div class="swiper-slide">
               <a href="http://kafka-summit.org/sponsors/heroku/">
-              <img src="http://kafka-summit.org/wp-content/uploads/2016/03/heroku.png" alt="Heroku" class="img-responsive center-block">
+              <img src="http://kafka-summit.org/wp-content/uploads/2016/03/heroku.png" alt="Heroku" class="img-responsive center-block" width="75%">
               </a>
             </div>
         </div>
