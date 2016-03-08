@@ -119,7 +119,7 @@
         paginationClickable: true,
         spaceBetween: 30,
         loop: true,
-        autoplay: 10,
+        autoplay: 2000,
         autoplayDisableOnInteraction: false
     });
     </script>
