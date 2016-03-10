@@ -55,9 +55,9 @@
 					</tr>
 					<tr>
 						<td class="time">11:20 AM - 12:00 PM</td>
-						<td><span class="session"><a href="http://kafka-summit.org/sessions/advanced-streaming-analytics-with-apache-flink-and-apache-kafka/">Advanced Streaming Analytics with Apache Flink and Apache Kafka</a></span><br> Data Artisans, <a href="http://kafka-summit.org/speakers/stephan-ewen/" class="speaker">Stephan Ewen</a></td>
+						<td><span class="session"><a href="http://kafka-summit.org/sessions/advanced-streaming-analytics-with-apache-flink-and-apache-kafka/">Advanced Streaming Analytics with Apache Flink and Apache Kafka</a></span><br> Data Artisans &amp; <a href="http://kafka-summit.org/speakers/stephan-ewen/" class="speaker">Stephan Ewen</a></td>
 						<td><span class="session"><a href="http://kafka-summit.org/sessions/when-it-absolutely-positively-has-to-be-there-reliability-guarantees-in-kafka/" class="session">When it Absolutely, Positively, Has to be There: Reliability Guarantees in Kafka</a></span><br>Confluent, <a href="http://kafka-summit.org/speakers/gwen-shapira/" class="speaker">Gwen Shapira</a></td>
-						<td><span class="session"><a href="http://kafka-summit.org/sessions/siphon-near-real-time-databus-using-kafka/">Siphon - Near Real Time Databus Using Kafka</a></span><br>Microsoft, <a href="http://kafka-summit.org/speakers/nitin-kumar/" class="speaker">Nitin Kumar</a>, <a href="http://kafka-summit.org/speakers/eric-boyd/" class="speaker">Eric Boyd</a></td>
+						<td><span class="session"><a href="http://kafka-summit.org/sessions/siphon-near-real-time-databus-using-kafka/">Siphon - Near Real Time Databus Using Kafka</a></span><br>Microsoft, <a href="http://kafka-summit.org/speakers/nitin-kumar/" class="speaker">Nitin Kumar</a> &amp; <a href="http://kafka-summit.org/speakers/eric-boyd/" class="speaker">Eric Boyd</a></td>
 					</tr>					
 					<tr>
 						<td class="time">12:10 PM - 12:50 PM</td>
@@ -72,7 +72,7 @@
 					<tr>
 						<td class="time">1:50 PM - 2:30 PM</td>
 						<td><span class="session"><a href="http://kafka-summit.org/sessions/kafka-connect-real-time-data-integration-at-scale-with-apache-kafka/">Kafka Connect: Real-time Data Integration at Scale with Apache Kafka</a></span><br>Confluent, <a href="http://kafka-summit.org/speakers/ewen-cheslack-postava/" class="speaker">Ewen Cheslack-Postava</a></td>
-						<td><span class="session"><a href="http://kafka-summit.org/sessions/securing-kafka/">Securing Kafka</a></span><br>Confluent, <a href="http://kafka-summit.org/speakers/ben-stopford/" class="speaker">Ben Stopford</a>, <a href="http://kafka-summit.org/speakers/ismael-juma/" class="speaker">Ismael Juma</a></a></td>
+						<td><span class="session"><a href="http://kafka-summit.org/sessions/securing-kafka/">Securing Kafka</a></span><br>Confluent, <a href="http://kafka-summit.org/speakers/ben-stopford/" class="speaker">Ben Stopford</a> &amp; <a href="http://kafka-summit.org/speakers/ismael-juma/" class="speaker">Ismael Juma</a></a></td>
 						<td><!-- <span class="session">Espresso Replication with Kafka</span><br>LinkedIn, Tom Quiggle --></td>
 					</tr>					
 					<tr>
@@ -98,7 +98,7 @@
 					<tr>
 						<td class="time">4:30 PM - 5:10 PM</td>
 						<td><span class="session"><a href="http://kafka-summit.org/sessions/streaming-sql-2/">Streaming SQL</a></span><br>Hortonworks, <a href="http://kafka-summit.org/speakers/julian-hyde-2/" class="speaker">Julian Hyde</a></td>
-						<td><span class="session"><a href="http://kafka-summit.org/sessions/deploying-kafka-at-dropbox/">Deploying Kafka at Dropbox</a></span><br>Dropbox, Mark Smith &amp; <a href="http://kafka-summit.org/speakers/sean-fellows/" class="speaker">Sean Fellows</a></td>
+						<td><span class="session"><a href="http://kafka-summit.org/sessions/deploying-kafka-at-dropbox/">Deploying Kafka at Dropbox</a></span><br>Dropbox, <a href="http://kafka-summit.org/speakers/mark-smith/" class="speaker">Mark Smith</a> &amp; <a href="http://kafka-summit.org/speakers/sean-fellows/" class="speaker">Sean Fellows</a></td>
 						<td><span class="session">Lightning Sessions</span>
 						<p><span class="session"><a href="http://kafka-summit.org/sessions/ingesting-complex-healthcare-data-with-apache-kafka/">Ingesting Complex Healthcare Data with Apache Kafka</a></span> Cerner, <a href="http://kafka-summit.org/speakers/micah-whitacre/" class="speaker">Micah Whitacre</a></p>
 						<p><span class="session"><a href="http://kafka-summit.org/sessions/kafka-and-stream-processing-taking-analytics-real-time/">Kafka and Stream processing, Taking Analytics Real-time</a></span> <a href="http://kafka-summit.org/speakers/mike-spicer/" class="speaker">Mike Spicer</a></p>
