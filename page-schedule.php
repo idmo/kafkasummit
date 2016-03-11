@@ -107,7 +107,7 @@
 					</tr>
 					<tr>
 						<td class="time">5:20 PM - 6:00 PM</td>
-						<td><span class="session"><a href="http://kafka-summit.org/sessions/generating-real-time-recommendations-with-nifi-kafka-and-spark/">Generating Real-time Recommendations with NiFi, Kafka, and Spark</a></span> IBM, <a href="http://kafka-summit.org/speakers/chris-fregly/" class="speaker">Chris Fregly</a></td>
+						<td><span class="session"><a href="http://kafka-summit.org/sessions/generating-real-time-recommendations-with-nifi-kafka-and-spark/">Generating Real-time Recommendations with NiFi, Kafka, and Spark</a></span> IBM, <br><a href="http://kafka-summit.org/speakers/chris-fregly/" class="speaker">Chris Fregly</a></td>
 						<td>&nbsp;</td>
 						<td>&nbsp;</td>
 					</tr>
