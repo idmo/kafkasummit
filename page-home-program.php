@@ -77,6 +77,22 @@
               <img src="http://kafka-summit.org/wp-content/uploads/2016/03/heroku.png" alt="Heroku" class="img-responsive center-block" width="75%">
               </a>
             </div>
+            <div class="swiper-slide">
+              <a href="http://kafka-summit.org/sponsors/salesforce/">
+              <img src="http://kafka-summit.org/wp-content/uploads/2016/03/salesforce.png" alt="Heroku" class="img-responsive center-block" width="75%">
+              </a>
+            </div>
+            <div class="swiper-slide">
+              <a href="http://kafka-summit.org/sponsors/memsql/">
+              <img src="http://kafka-summit.org/wp-content/uploads/2016/03/memsql.png" alt="Heroku" class="img-responsive center-block" width="75%">
+              </a>
+            </div>
+            <div class="swiper-slide">
+              <a href="http://kafka-summit.org/sponsors/opsclarity/">
+              <img src="http://kafka-summit.org/wp-content/uploads/2016/03/opsclarity.png" alt="Heroku" class="img-responsive center-block" width="75%">
+              </a>
+            </div>
+
         </div>
         <!-- Add Pagination -->
         <p>Interested in sponsoring Kafka Summit? Contact <a href="mailto:organizers@kafka-summit.org">organizers@kafka-summit.org</a>.</p>
