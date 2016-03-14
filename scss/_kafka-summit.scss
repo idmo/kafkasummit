@@ -30,12 +30,12 @@ a {
 		color: $color_nav;
 	}
 	ul li {
-		// &:last-child a {
+		&:last-child a {
 			background-color: $color_primary;
 		// 	color: $color_white;
 		// 	border-radius: 6px;
 		// 	width: 60%;
-		// }
+		}
 	}
 }
 
