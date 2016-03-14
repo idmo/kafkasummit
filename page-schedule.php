@@ -30,16 +30,16 @@
 						<td colspan="3"><div class="break">Community Room / Exhibit Hall 7:30 AM - 3:30 PM</div></td>
 					</tr>
 					<tr>
-						<td class="time">&nbsp;</td>
-						<td colspan="3"><div class="break">Breakfast 7:30 AM - 9:30 AM</div></td>
+						<td class="time">7:30 AM - 9:30 AM</td>
+						<td colspan="3"><div class="break">Breakfast</div></td>
 					</tr>
 					<tr>
 						<td class="time">9:00 AM - 10:15 AM</td>
 						<td colspan="3" id="general-session"><strong>General Session</strong></td>
 					</tr>
 					<tr>
-						<td class="time">&nbsp;</td>
-						<td colspan="3"><div class="break">Break 10:15 AM - 10:30 AM</div></td>
+						<td class="time">10:15 AM - 10:30 AM</td>
+						<td colspan="3"><div class="break">Break</div></td>
 					</tr>
 					<tr class="tracks">
 						<th>&nbsp;</th>
@@ -66,8 +66,8 @@
 						<td><span class="session"><a href="http://kafka-summit.org/sessions/the-enterprise-service-bus-is-dead-long-live-the-enterprise-service-bus/" class="session">The Enterprise Service Bus is Dead! Long live the Enterprise Service Bus</a></span><br>Heroku, <a href="http://kafka-summit.org/speakers/rimas-silkaitis/" class="speaker">Rimas Silkaitis</a></td>
 					</tr>
 					<tr>
-						<td class="time">&nbsp;</td>
-						<td colspan="3"><div class="break">Lunch 12:50 PM - 1:50 PM</div></td>
+						<td class="time">12:50 PM - 1:50 PM</td>
+						<td colspan="3"><div class="break">Lunch</div></td>
 					</tr>
 					<tr>
 						<td class="time">1:50 PM - 2:30 PM</td>
@@ -82,8 +82,8 @@
 						<td><span class="session"><a href="http://kafka-summit.org/sessions/leveraging-kafka-for-big-data-in-real-time-bidding-analytics-machine-learning-and-campaign-management-for-globally-distributed-data-flows/">Leveraging Kafka for Big Data in Real Time Bidding, Analytics, Machine Learning and Campaign Management for Globally Distributed Data Flows</a></span><br>Tuplejump, <a href="http://kafka-summit.org/speakers/helena-edelson/" class="speaker">Helena Edelson</a></td>
 					</tr>
 					<tr>
-						<td class="time">&nbsp;</td>
-						<td colspan="3"><div class="break">Break 3:20 PM - 3:40 PM</div></td>
+						<td class="time">3:20 PM - 3:40 PM</td>
+						<td colspan="3"><div class="break">Break</div></td>
 					</tr>					
 					<tr>
 						<td class="time">3:40 PM - 4:20 PM</td>
@@ -112,8 +112,8 @@
 						<td>&nbsp;</td>
 					</tr>
 					<tr>
-						<td class="time">&nbsp;</td>
-						<td colspan="3"><div class="break">Kafka-Palooza Party 6:00 PM - 9:00 PM</div></td>
+						<td class="time">6:00 PM - 9:00 PM</td>
+						<td colspan="3"><div class="break">Kafka-Palooza Party</div></td>
 					</tr>
 				</table>
 				</div>
