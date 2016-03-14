@@ -250,6 +250,7 @@ a:hover {
 }
 .navbar ul li:last-child a {
   background-color: magenta;
+  border-radius: 6px;
 }
 
 .slide {
