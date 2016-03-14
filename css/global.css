@@ -248,6 +248,9 @@ a:hover {
   text-transform: uppercase;
   color: #444;
 }
+.navbar ul li {
+  background-color: magenta;
+}
 
 .slide {
   padding-top: 18px;
