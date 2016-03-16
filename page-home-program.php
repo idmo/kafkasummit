@@ -92,6 +92,22 @@
               <img src="http://kafka-summit.org/wp-content/uploads/2016/03/opsclarity.png" alt="Heroku" class="img-responsive center-block" width="75%">
               </a>
             </div>
+            <div class="swiper-slide">
+              <a href="http://kafka-summit.org/sponsors/ge-digital/">
+              <img src="http://kafka-summit.org/wp-content/uploads/2016/03/ge-digital.png" alt="Heroku" class="img-responsive center-block" width="75%">
+              </a>
+            </div>
+            <div class="swiper-slide">
+              <a href="http://kafka-summit.org/sponsors/microsoft/">
+              <img src="http://kafka-summit.org/wp-content/uploads/2016/03/microsoft.png" alt="Heroku" class="img-responsive center-block" width="75%">
+              </a>
+            </div>
+            <div class="swiper-slide">
+              <a href="http://kafka-summit.org/sponsors/hpe/">
+              <img src="http://kafka-summit.org/wp-content/uploads/2016/03/hpe.png" alt="Heroku" class="img-responsive center-block" width="75%">
+              </a>
+            </div>
+
 
         </div>
         <!-- Add Pagination -->
