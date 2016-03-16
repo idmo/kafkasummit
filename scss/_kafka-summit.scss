@@ -431,3 +431,12 @@ body.single-sponsor {
 		color: #000;
 	}
 }
+
+
+nav>li {
+	display: inline-block;
+}
+
+.sub-menu {
+	z-index: 1000;
+}

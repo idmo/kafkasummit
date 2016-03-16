@@ -6,7 +6,7 @@
 
  ?>
 
-<?php get_header( ); ?>
+<?php get_header(); ?>
 
 
 <div class="slide" id="schedule">
@@ -101,7 +101,7 @@
 						<td><span class="session"><a href="http://kafka-summit.org/sessions/deploying-kafka-at-dropbox/">Deploying Kafka at Dropbox</a></span><br>Dropbox, <a href="http://kafka-summit.org/speakers/mark-smith/" class="speaker">Mark Smith</a> &amp; <a href="http://kafka-summit.org/speakers/sean-fellows/" class="speaker">Sean Fellows</a></td>
 						<td><span class="session">Lightning Sessions</span>
 						<p><span class="session"><a href="http://kafka-summit.org/sessions/ingesting-complex-healthcare-data-with-apache-kafka/">Ingesting Complex Healthcare Data with Apache Kafka</a></span> Cerner, <a href="http://kafka-summit.org/speakers/micah-whitacre/" class="speaker">Micah Whitacre</a></p>
-						<p><span class="session"><a href="http://kafka-summit.org/sessions/kafka-and-stream-processing-taking-analytics-real-time/">Kafka and Stream processing, Taking Analytics Real-time</a></span> <a href="http://kafka-summit.org/speakers/mike-spicer/" class="speaker">Mike Spicer</a></p>
+						<p><span class="session"><a href="http://kafka-summit.org/sessions/kafka-and-stream-processing-taking-analytics-real-time/">Kafka and Stream processing, Taking Analytics Real-time</a></span>IBM <a href="http://kafka-summit.org/speakers/mike-spicer/" class="speaker">Mike Spicer</a></p>
 						<p><span class="session">Never at Rest - IoT and Data Streaming at British Gas Connected Homes</span>  <a href="#" class="speaker">Paul Makkar</a></p>
 						</td>
 					</tr>
