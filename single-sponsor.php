@@ -7,7 +7,7 @@
 			<?php get_template_part('clip','single'); ?>
 		</div>
 		<div class="col-md-4">
-			<a href=""><?php the_field('web_address'); ?>
+			<a href="<?php the_field('web_address'); ?>">
 			<img class="img-responsive pull-right" src="<?php the_field('logo') ?>" alt="<?php the_field('title') ?>"> 
 			</a>
 		</div>
