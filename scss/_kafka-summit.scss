@@ -39,6 +39,8 @@ a {
 	}
 }
 
+
+
 .slide {
 	padding-top: $pad_vertical;
 	padding-bottom: $pad_vertical;
@@ -266,25 +268,33 @@ div.input input {
 	font-weight: normal;
 }
 
+
 .nav>li>a:focus, .nav>li>a {
 	font-size: 14px;
 }
 
 .nav>li {
 	.sub-menu {
-		display: none;
+		visibility: hidden;
 	}
 }
 
+// rollover
 .nav>li:hover {
 	.sub-menu {
 		font-size: 14px;
 		display: inline-block;
 		z-index: 1000;
-		position: static;
+		position: relative;
+		visibility: visible;
 		
 		a {
-			color: #ff00ff;
+			color: #000;
+			background: #eee;
+			width: 100%;
+			text-align: center;
+			padding-left: 20px;
+			padding-right: 20px;
 		}
 	}
 }

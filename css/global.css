@@ -466,17 +466,23 @@ div.input input {
 }
 
 .nav > li .sub-menu {
-  display: none;
+  visibility: hidden;
 }
 
 .nav > li:hover .sub-menu {
   font-size: 14px;
   display: inline-block;
   z-index: 1000;
-  position: static;
+  position: relative;
+  visibility: visible;
 }
 .nav > li:hover .sub-menu a {
-  color: #ff00ff;
+  color: #000;
+  background: #eee;
+  width: 100%;
+  text-align: center;
+  padding-left: 20px;
+  padding-right: 20px;
 }
 
 .nav > li > a:focus, .nav > li > a:hover {

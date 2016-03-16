@@ -22,11 +22,11 @@
 			<div class="row">
 				<div class="col-md-12">
 				<?php wp_nav_menu(array(
-				'theme_location' => 'main-nav',
-				'container'      => 'nav',
-				'container_id'   => 'global-nav',
+				'theme_location'  => 'main-nav',
+				'container'       => 'nav',
+				'container_id'    => 'global-nav',
 				'container_class' => 'navbar',
-				'menu_class' => 'nav nav-justified'
+				'menu_class'      => 'nav nav-justified'
 				)) ?>					
 				</div>
 			</div>
