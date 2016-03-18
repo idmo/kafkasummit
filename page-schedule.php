@@ -6,7 +6,7 @@
 
  ?>
 
-<?php get_header(); ?>
+<?php get_header('foo'); ?>
 
 
 <div class="slide" id="schedule">

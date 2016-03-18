@@ -9,3 +9,13 @@ Interested in sponsoring Kafka Summit? Contact <a href="mailto:organizers@kafka-
 </div>
 </div>
 </div>
+
+
+
+		<?php wp_nav_menu(array(
+				'theme_location'  => 'main-nav',
+				'container'       => 'nav',
+				'container_id'    => 'global-nav',
+				'container_class' => 'navbar',
+				'menu_class'      => 'nav nav-justified'
+				)) ?>	

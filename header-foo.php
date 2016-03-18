@@ -21,23 +21,21 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-md-12">
-				<nav id="global-nav" class="navbar">
-					<ul class="nav">
-						<li><a href="/">Home</a></li>
-						<li><a href="/schedule">Schedule</a></li>
-						<li><a href="/speakers">Speakers</a></li>
-						<li><a href="/sponsors">Sponsors</a></li>
-						<li>
-							<a href="/activities">Activities</a>
-							<ul class="sub-menu">
-								<li><a href="/training">Training</a></li>
-								<li><a href="/hackathon">Hackathon</a></li>
-							</ul>
-						</li>
-						<li><a href="/info">Info</a></li>
-						<li><a href="/register"></a></li>
-					</ul>
-				</nav>
+				<ul class="global-menu">
+					<li><a href="/">Home</a></li>
+					<li><a href="/schedule">Schedule</a></li>
+					<li><a href="/speakers">Speakers</a></li>
+					<li><a href="/sponsors">Sponsors</a></li>
+					<li>
+						<a href="#">Activities</a>
+						<ul class="dropdown">
+							<li><a href="/hackathon">Hackathon</a></li>
+							<li><a href="/training">Training</a></li>
+						</ul>
+					</li>
+					<li><a href="/info">Info</a></li>
+					<li><a class="register" href="/register">Register</a></li>
+				</ul>
 				</div>
 			</div>
 		</div>

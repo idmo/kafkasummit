@@ -609,6 +609,54 @@ nav > li {
   z-index: 1000;
 }
 
+ul.global-menu {
+  list-style-type: none;
+  padding: 0 0;
+  padding-top: 18px;
+  margin: 0;
+  margin-bottom: 20px;
+  text-align: center;
+  width: 100%;
+  position: relative;
+  display: flex;
+  justify-content: space-between;
+  font-size: 14px;
+}
+ul.global-menu li {
+  display: table-cell;
+  position: relative;
+}
+ul.global-menu li:hover a {
+  color: magenta;
+}
+ul.global-menu li:hover .dropdown {
+  display: block;
+}
+ul.global-menu li a {
+  display: block;
+  padding: 10px 15px;
+  text-align: center;
+  text-transform: uppercase;
+  position: relative;
+  color: #666;
+}
+ul.global-menu li a.register {
+  color: #fff;
+  background: magenta;
+  border-radius: 6px;
+}
+ul.global-menu li ul.dropdown {
+  display: none;
+  position: absolute;
+  padding: 0;
+  margin: 0;
+  z-index: 1;
+}
+ul.global-menu li ul.dropdown li {
+  display: inline-block;
+  padding: 0;
+}
+
 iframe {
   min-height: 0;
   max-height: 300px;

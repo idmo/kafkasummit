@@ -21,13 +21,21 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-md-12">
-				<?php wp_nav_menu(array(
-				'theme_location'  => 'main-nav',
-				'container'       => 'nav',
-				'container_id'    => 'global-nav',
-				'container_class' => 'navbar',
-				'menu_class'      => 'nav nav-justified'
-				)) ?>					
+				<ul class="global-menu">
+					<li><a href="/">Home</a></li>
+					<li><a href="/schedule">Schedule</a></li>
+					<li><a href="/speakers">Speakers</a></li>
+					<li><a href="/sponsors">Sponsors</a></li>
+					<li>
+						<a href="#">Activities</a>
+						<ul class="dropdown">
+							<li><a href="/hackathon">Hackathon</a></li>
+							<li><a href="/training">Training</a></li>
+						</ul>
+					</li>
+					<li><a href="/info">Info</a></li>
+					<li><a class="register" href="/register">Register</a></li>
+				</ul>				
 				</div>
 			</div>
 		</div>

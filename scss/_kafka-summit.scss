@@ -440,3 +440,58 @@ nav>li {
 .sub-menu {
 	z-index: 1000;
 }
+
+
+
+// Drop Down Global Menu
+// 
+ul.global-menu {
+	list-style-type: none;
+	padding: 0 0;
+	padding-top: 18px;
+	margin: 0;
+	margin-bottom: 20px;
+	text-align: center;
+	width: 100%;
+	position: relative;
+	display: flex;
+	justify-content: space-between;
+	font-size: 14px;
+	li {
+		display: table-cell;
+		position: relative;
+		&:hover {
+			a {
+				color: $color_primary;
+			}
+			.dropdown {
+				display: block;
+			}
+		}
+		a {
+			display: block;
+			padding: 10px 15px;
+			text-align: center;
+			text-transform: uppercase;
+			position: relative;
+			color: #666;
+			&.register {
+				color: #fff;
+				background: $color_primary;
+				border-radius: 6px;
+			}
+		}
+		ul.dropdown {
+			display: none;
+			position: absolute;
+			padding:0;
+			margin: 0;
+			z-index: 1;
+			li {
+				display: inline-block;
+				padding: 0;
+			}
+		}
+	}
+}
+
