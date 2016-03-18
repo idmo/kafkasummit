@@ -73,7 +73,7 @@
 						<td class="time">1:50 PM - 2:30 PM</td>
 						<td><span class="session"><a href="http://kafka-summit.org/sessions/kafka-connect-real-time-data-integration-at-scale-with-apache-kafka/">Kafka Connect: Real-time Data Integration at Scale with Apache Kafka</a></span><br>Confluent, <a href="http://kafka-summit.org/speakers/ewen-cheslack-postava/" class="speaker">Ewen Cheslack-Postava</a></td>
 						<td><span class="session"><a href="http://kafka-summit.org/sessions/securing-kafka/">Securing Kafka</a></span><br>Confluent, <a href="http://kafka-summit.org/speakers/ben-stopford/" class="speaker">Ben Stopford</a> &amp; <a href="http://kafka-summit.org/speakers/ismael-juma/" class="speaker">Ismael Juma</a></a></td>
-						<td><span class="session"><a href="http://kafka-summit.org/sessions/espresso-database-replication-with-kafka/">Espresso Replication with Kafka</a></span><br>LinkedIn, <a href="http://kafka-summit.org/speakers/tom-quiggle/" class="speaker">Tom Quiggle</a></td>
+						<td><span class="session"><a href="http://kafka-summit.org/sessions/espresso-database-replication-with-kafka/">Espresso Database Replication with Kafka</a></span><br>LinkedIn, <a href="http://kafka-summit.org/speakers/tom-quiggle/" class="speaker">Tom Quiggle</a></td>
 					</tr>					
 					<tr>
 						<td class="time">2:40 PM - 3:20 PM</td>
