@@ -55,7 +55,7 @@
 					</tr>
 					<tr>
 						<td class="time">11:20 AM - 12:00 PM</td>
-						<td><span class="session"><a href="http://kafka-summit.org/sessions/advanced-streaming-analytics-with-apache-flink-and-apache-kafka/">Advanced Streaming Analytics with Apache Flink and Apache Kafka</a></span><br> Data Artisans &amp; <a href="http://kafka-summit.org/speakers/stephan-ewen/" class="speaker">Stephan Ewen</a></td>
+						<td><span class="session"><a href="http://kafka-summit.org/sessions/advanced-streaming-analytics-with-apache-flink-and-apache-kafka/">Advanced Streaming Analytics with Apache Flink and Apache Kafka</a></span><br> Data Artisans, <a href="http://kafka-summit.org/speakers/stephan-ewen/" class="speaker">Stephan Ewen</a></td>
 						<td><span class="session"><a href="http://kafka-summit.org/sessions/when-it-absolutely-positively-has-to-be-there-reliability-guarantees-in-kafka/" class="session">When it Absolutely, Positively, Has to be There: Reliability Guarantees in Kafka</a></span><br>Confluent, <a href="http://kafka-summit.org/speakers/gwen-shapira/" class="speaker">Gwen Shapira</a></td>
 						<td><span class="session"><a href="http://kafka-summit.org/sessions/siphon-near-real-time-databus-using-kafka/">Siphon - Near Real Time Databus Using Kafka</a></span><br>Microsoft, <a href="http://kafka-summit.org/speakers/nitin-kumar/" class="speaker">Nitin Kumar</a> &amp; <a href="http://kafka-summit.org/speakers/eric-boyd/" class="speaker">Eric Boyd</a></td>
 					</tr>					
