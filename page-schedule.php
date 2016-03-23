@@ -30,7 +30,7 @@
 						<td colspan="3"><div class="break">Community Room / Exhibit Hall 7:30 AM - 3:30 PM</div></td>
 					</tr>
 					<tr>
-						<td class="time">7:30 AM - 9:30 AM</td>
+						<td class="time">7:30 AM - 9:00 AM</td>
 						<td colspan="3"><div class="break">Breakfast</div></td>
 					</tr>
 					<tr>
@@ -77,7 +77,7 @@
 					</tr>					
 					<tr>
 						<td class="time">2:40 PM - 3:20 PM</td>
-						<td><!-- <span class="session">Apache Spark + Netflix OSS</span><br>IMB Spark Technology Center, Chris Fregley --></td>
+						<td><span class="session"><a href="#">Conquering all your stream processing needs with Kafka and Spark</a></span><br>Databricks, <a href="#" class="speaker">Tathagata Das</a></td>
 						<td><span class="session"><a href="http://kafka-summit.org/sessions/more-datacenters-more-problems/">More Datacenters, More Problems</a></span><br>LinkedIn, <a href="http://kafka-summit.org/speakers/todd-palino/" class="speaker">Todd Palino</a></td>
 						<td><span class="session"><a href="http://kafka-summit.org/sessions/leveraging-kafka-for-big-data-in-real-time-bidding-analytics-machine-learning-and-campaign-management-for-globally-distributed-data-flows/">Leveraging Kafka for Big Data in Real Time Bidding, Analytics, Machine Learning and Campaign Management for Globally Distributed Data Flows</a></span><br>Tuplejump, <a href="http://kafka-summit.org/speakers/helena-edelson/" class="speaker">Helena Edelson</a></td>
 					</tr>
