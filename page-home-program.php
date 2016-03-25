@@ -79,32 +79,37 @@
             </div>
             <div class="swiper-slide">
               <a href="http://kafka-summit.org/sponsors/salesforce/">
-              <img src="http://kafka-summit.org/wp-content/uploads/2016/03/salesforce.png" alt="Heroku" class="img-responsive center-block" width="75%">
+              <img src="http://kafka-summit.org/wp-content/uploads/2016/03/salesforce.png" alt="Salesforce" class="img-responsive center-block" width="75%">
               </a>
             </div>
             <div class="swiper-slide">
               <a href="http://kafka-summit.org/sponsors/memsql/">
-              <img src="http://kafka-summit.org/wp-content/uploads/2016/03/memsql.png" alt="Heroku" class="img-responsive center-block" width="75%">
+              <img src="http://kafka-summit.org/wp-content/uploads/2016/03/memsql.png" alt="MemSQL" class="img-responsive center-block" width="75%">
               </a>
             </div>
             <div class="swiper-slide">
               <a href="http://kafka-summit.org/sponsors/opsclarity/">
-              <img src="http://kafka-summit.org/wp-content/uploads/2016/03/opsclarity.png" alt="Heroku" class="img-responsive center-block" width="75%">
+              <img src="http://kafka-summit.org/wp-content/uploads/2016/03/opsclarity.png" alt="Ops Clarity" class="img-responsive center-block" width="75%">
               </a>
             </div>
             <div class="swiper-slide">
               <a href="http://kafka-summit.org/sponsors/ge-digital/">
-              <img src="http://kafka-summit.org/wp-content/uploads/2016/03/ge-digital.png" alt="Heroku" class="img-responsive center-block" width="75%">
+              <img src="http://kafka-summit.org/wp-content/uploads/2016/03/ge-digital.png" alt="GE Digital" class="img-responsive center-block" width="75%">
               </a>
             </div>
             <div class="swiper-slide">
               <a href="http://kafka-summit.org/sponsors/microsoft/">
-              <img src="http://kafka-summit.org/wp-content/uploads/2016/03/microsoft.png" alt="Heroku" class="img-responsive center-block" width="75%">
+              <img src="http://kafka-summit.org/wp-content/uploads/2016/03/microsoft.png" alt="Microsoft" class="img-responsive center-block" width="75%">
               </a>
             </div>
             <div class="swiper-slide">
-              <a href="http://kafka-summit.org/sponsors/hpe/">
-              <img src="http://kafka-summit.org/wp-content/uploads/2016/03/hpe.png" alt="Heroku" class="img-responsive center-block" width="75%">
+              <a href="http://kafka-summit.org/sponsors/citus-data/">
+              <img src="http://kafka-summit.org/wp-content/uploads/2016/03/citus-data.png" alt="Citus Data" class="img-responsive center-block" width="75%">
+              </a>
+            </div>
+            <div class="swiper-slide">
+              <a href="http://kafka-summit.org/sponsors/striim/">
+              <img src="http://kafka-summit.org/wp-content/uploads/2016/03/striim.png" alt="Striim" class="img-responsive center-block" width="75%">
               </a>
             </div>
 
