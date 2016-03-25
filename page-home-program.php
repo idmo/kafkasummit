@@ -103,13 +103,18 @@
               </a>
             </div>
             <div class="swiper-slide">
-              <a href="http://kafka-summit.org/sponsors/citus-data/">
-              <img src="http://kafka-summit.org/wp-content/uploads/2016/03/citus-data.png" alt="Citus Data" class="img-responsive center-block" width="75%">
+              <a href="http://kafka-summit.org/sponsors/linkedin/">
+              <img src="http://kafka-summit.org/wp-content/uploads/2016/03/linkedin.png" alt="Citus Data" class="img-responsive center-block" width="75%">
               </a>
-            </div>
+            </div>            
             <div class="swiper-slide">
               <a href="http://kafka-summit.org/sponsors/striim/">
               <img src="http://kafka-summit.org/wp-content/uploads/2016/03/striim.png" alt="Striim" class="img-responsive center-block" width="75%">
+              </a>
+            </div>
+            <div class="swiper-slide">
+              <a href="http://kafka-summit.org/sponsors/citus-data/">
+              <img src="http://kafka-summit.org/wp-content/uploads/2016/03/citus-data.png" alt="Citus Data" class="img-responsive center-block" width="75%">
               </a>
             </div>
 
