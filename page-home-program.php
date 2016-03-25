@@ -104,7 +104,7 @@
             </div>
             <div class="swiper-slide">
               <a href="http://kafka-summit.org/sponsors/linkedin/">
-              <img src="http://kafka-summit.org/wp-content/uploads/2016/03/linkedin.png" alt="Citus Data" class="img-responsive center-block" width="75%">
+              <img src="http://kafka-summit.org/wp-content/uploads/2016/03/linkedin.png" alt="LinkedIn" class="img-responsive center-block" width="75%">
               </a>
             </div>            
             <div class="swiper-slide">
@@ -117,7 +117,11 @@
               <img src="http://kafka-summit.org/wp-content/uploads/2016/03/citus-data.png" alt="Citus Data" class="img-responsive center-block" width="75%">
               </a>
             </div>
-
+            <div class="swiper-slide">
+              <a href="http://kafka-summit.org/sponsors/mesosphere/">
+              <img src="http://kafka-summit.org/wp-content/uploads/2016/03/mesosphere.png" alt="Mesosphere" class="img-responsive center-block" width="75%">
+              </a>
+            </div>
 
         </div>
         <!-- Add Pagination -->
