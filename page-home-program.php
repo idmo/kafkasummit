@@ -125,7 +125,7 @@
 
         </div>
         <!-- Add Pagination -->
-        <p>Interested in sponsoring Kafka Summit? Contact <a href="mailto:organizers@kafka-summit.org">organizers@kafka-summit.org</a>.</p>
+       
     </div>    
     </div>
   </div>
