@@ -102,7 +102,7 @@
 						<td><span class="session">Lightning Sessions</span>
 						<p><span class="session"><a href="http://kafka-summit.org/sessions/ingesting-complex-healthcare-data-with-apache-kafka/">Ingesting Complex Healthcare Data with Apache Kafka</a></span> Cerner, <a href="http://kafka-summit.org/speakers/micah-whitacre/" class="speaker">Micah Whitacre</a></p>
 						<p><span class="session"><a href="http://kafka-summit.org/sessions/kafka-and-stream-processing-taking-analytics-real-time/">Kafka and Stream processing, Taking Analytics Real-time</a></span>IBM <a href="http://kafka-summit.org/speakers/mike-spicer/" class="speaker">Mike Spicer</a></p>
-						<p><span class="session">Never at Rest - IoT and Data Streaming at British Gas Connected Homes</span>  <a href="#" class="speaker">Paul Makkar</a></p>
+						<p><span class="session"><a href="http://kafka-summit.org/sessions/never-at-rest-iot-and-data-streaming-at-british-gas-connected-homes/">Never at Rest - IoT and Data Streaming at British Gas Connected Homes</a></span>  <a href="#" class="speaker">Paul Makkar</a></p>
 						</td>
 					</tr>
 					<tr>
