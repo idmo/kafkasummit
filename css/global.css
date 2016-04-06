@@ -657,6 +657,11 @@ ul.global-menu li ul.dropdown li {
   padding: 0;
 }
 
+span.room {
+  font-weight: 100;
+  color: #000;
+}
+
 iframe {
   min-height: 0;
   max-height: 300px;
