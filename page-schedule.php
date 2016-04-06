@@ -43,9 +43,9 @@
 					</tr>
 					<tr class="tracks">
 						<th>&nbsp;</th>
-						<th>Systems Track</th>
-						<th>Operations Track</th>
-						<th>Users Track</th>
+						<th>Systems Track<br>Grand Ballroom A</th>
+						<th>Operations Track<br>Imperial A</th>
+						<th>Users Track<br>Imperial B</th>
 					</tr>
 					<tr>
 						<td class="time">10:30 AM - 11:10 AM</td>
@@ -72,12 +72,12 @@
 					<tr>
 						<td class="time">1:50 PM - 2:30 PM</td>
 						<td><span class="session"><a href="http://kafka-summit.org/sessions/kafka-connect-real-time-data-integration-at-scale-with-apache-kafka/">Kafka Connect: Real-time Data Integration at Scale with Apache Kafka</a></span><br>Confluent, <a href="http://kafka-summit.org/speakers/ewen-cheslack-postava/" class="speaker">Ewen Cheslack-Postava</a></td>
-						<td><span class="session"><a href="http://kafka-summit.org/sessions/securing-kafka/">Securing Kafka</a></span><br>Confluent, <a href="http://kafka-summit.org/speakers/ben-stopford/" class="speaker">Ben Stopford</a> &amp; <a href="http://kafka-summit.org/speakers/ismael-juma/" class="speaker">Ismael Juma</a></a></td>
+						<td><span class="session"><a href="http://kafka-summit.org/sessions/securing-kafka/">Securing Kafka</a></span><br>Confluent,  <a href="http://kafka-summit.org/speakers/jun-rao/" class="speaker">Jun Rao</a></td>
 						<td><span class="session"><a href="http://kafka-summit.org/sessions/espresso-database-replication-with-kafka/">Espresso Database Replication with Kafka</a></span><br>LinkedIn, <a href="http://kafka-summit.org/speakers/tom-quiggle/" class="speaker">Tom Quiggle</a></td>
 					</tr>					
 					<tr>
 						<td class="time">2:40 PM - 3:20 PM</td>
-						<td><span class="session"><a href="#">Conquering all your stream processing needs with Kafka and Spark</a></span><br>Databricks, <a href="#" class="speaker">Tathagata Das</a></td>
+						<td><span class="session"><a href="http://kafka-summit.org/sessions/conquering-all-your-stream-processing-needs-with-kafka-and-spark/">Conquering all your stream processing needs with Kafka and Spark</a></span><br>Databricks, <a href="http://kafka-summit.org/speakers/tathagata-das/" class="speaker">Tathagata Das</a></td>
 						<td><span class="session"><a href="http://kafka-summit.org/sessions/more-datacenters-more-problems/">More Datacenters, More Problems</a></span><br>LinkedIn, <a href="http://kafka-summit.org/speakers/todd-palino/" class="speaker">Todd Palino</a></td>
 						<td><span class="session"><a href="http://kafka-summit.org/sessions/leveraging-kafka-for-big-data-in-real-time-bidding-analytics-machine-learning-and-campaign-management-for-globally-distributed-data-flows/">Leveraging Kafka for Big Data in Real Time Bidding, Analytics, Machine Learning and Campaign Management for Globally Distributed Data Flows</a></span><br>Tuplejump, <a href="http://kafka-summit.org/speakers/helena-edelson/" class="speaker">Helena Edelson</a></td>
 					</tr>
@@ -102,14 +102,14 @@
 						<td><span class="session">Lightning Sessions</span>
 						<p><span class="session"><a href="http://kafka-summit.org/sessions/ingesting-complex-healthcare-data-with-apache-kafka/">Ingesting Complex Healthcare Data with Apache Kafka</a></span> Cerner, <a href="http://kafka-summit.org/speakers/micah-whitacre/" class="speaker">Micah Whitacre</a></p>
 						<p><span class="session"><a href="http://kafka-summit.org/sessions/kafka-and-stream-processing-taking-analytics-real-time/">Kafka and Stream processing, Taking Analytics Real-time</a></span>IBM <a href="http://kafka-summit.org/speakers/mike-spicer/" class="speaker">Mike Spicer</a></p>
-						<p><span class="session"><a href="http://kafka-summit.org/sessions/never-at-rest-iot-and-data-streaming-at-british-gas-connected-homes/">Never at Rest - IoT and Data Streaming at British Gas Connected Homes</a></span>  <a href="#" class="speaker">Paul Makkar</a></p>
+						<p><span class="session"><a href="http://kafka-summit.org/sessions/never-at-rest-iot-and-data-streaming-at-british-gas-connected-homes/">Never at Rest - IoT and Data Streaming at British Gas Connected Homes</a></span><br>Connected Homes,  <a href="http://kafka-summit.org/speakers/paul-makkar/" class="speaker">Paul Makkar</a></p>
 						</td>
 					</tr>
 					<tr>
 						<td class="time">5:20 PM - 6:00 PM</td>
 						<td><span class="session"><a href="http://kafka-summit.org/sessions/generating-real-time-recommendations-with-nifi-kafka-and-spark/">Generating Real-time Recommendations with NiFi, Kafka, and Spark</a></span><br>IBM, <a href="http://kafka-summit.org/speakers/chris-fregly/" class="speaker">Chris Fregly</a></td>
 						<td><span class="session"><a href="http://kafka-summit.org/sessions/101-ways-to-configure-kafka-badly/">101 Ways to Configure Kafka - Badly</a></span><br>Finn.no, <a href="http://kafka-summit.org/speakers/henning-spjelkavik/" class="speaker">Henning Spjelkavik</a> &amp; <a href="http://kafka-summit.org/speakers/audun-fauchald-strand/" class="speaker">Audun Strand</a></td>
-						<td>&nbsp;</td>
+						<td><span class="session"><a href="http://kafka-summit.org/sessions/real-time-analytics-visualized-w-kafka-streamliner-memsql-zoomdata/">Real-Time Analytics Visualized w/ Kafka + Streamliner + MemSQL + ZoomData</a></span><br>Goldman Sachs, <a href="http://kafka-summit.org/speakers/anton-gorshkov/" class="speaker">Anton Gorshkov</a></td>
 					</tr>
 					<tr>
 						<td class="time">6:00 PM - 9:00 PM</td>
