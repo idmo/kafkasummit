@@ -43,9 +43,9 @@
 					</tr>
 					<tr class="tracks">
 						<th>&nbsp;</th>
-						<th>Systems Track<br><span class="room">Grand Ballroom A</span></th>
-						<th>Operations Track<br><span class="room">Imperial A</span></th>
-						<th>Users Track<br><span class="room">Imperial B</span></th>
+						<th>Systems Track<br><span class="room">Grand A Ballroom</span></th>
+						<th>Operations Track<br><span class="room">Imperial A Ballroom</span></th>
+						<th>Users Track<br><span class="room">Imperial B Ballroom</span></th>
 					</tr>
 					<tr>
 						<td class="time">10:30 AM - 11:10 AM</td>
