@@ -23,23 +23,23 @@
 					</tr>
 					<tr>
 						<td class="time">&nbsp;</td>
-						<td colspan="3"><div class="break">Check-in 7:30 AM - 5:00 PM</div></td>
+						<td colspan="3"><div class="break">Check-in 7:30 AM - 5:00 PM<br>Yosemite Ballroom</div></td>
 					</tr>
 					<tr>
 						<td class="time">&nbsp;</td>
-						<td colspan="3"><div class="break">Community Room / Exhibit Hall 7:30 AM - 3:30 PM</div></td>
+						<td colspan="3"><div class="break">Community Room / Exhibit Hall 7:30 AM - 3:30 PM<br>Yosemite Ballroom</div></td>
 					</tr>
 					<tr>
 						<td class="time">7:30 AM - 9:00 AM</td>
-						<td colspan="3"><div class="break">Breakfast</div></td>
+						<td colspan="3"><div class="break">Breakfast<br>Yosemite Ballroom</div></td>
 					</tr>
 					<tr>
 						<td class="time">9:00 AM - 10:15 AM</td>
-						<td colspan="3" id="general-session"><strong>General Session</strong></td>
+						<td colspan="3" id="general-session"><strong>General Session<br>Grand A Ballroom</strong></td>
 					</tr>
 					<tr>
 						<td class="time">10:15 AM - 10:30 AM</td>
-						<td colspan="3"><div class="break">Break</div></td>
+						<td colspan="3"><div class="break">Break<br>Yosemite Ballroom</div></td>
 					</tr>
 					<tr class="tracks">
 						<th>&nbsp;</th>
@@ -67,7 +67,7 @@
 					</tr>
 					<tr>
 						<td class="time">12:50 PM - 1:50 PM</td>
-						<td colspan="3"><div class="break">Lunch</div></td>
+						<td colspan="3"><div class="break">Lunch Sponsored by <img src="http://kafka-summit.org/wp-content/uploads/2016/03/salesforce.png" alt="Salesforce" class="" width="9%">Yosemite Ballroom</div></td>
 					</tr>
 					<tr>
 						<td class="time">1:50 PM - 2:30 PM</td>
@@ -77,13 +77,13 @@
 					</tr>					
 					<tr>
 						<td class="time">2:40 PM - 3:20 PM</td>
-						<td><span class="session"><a href="http://kafka-summit.org/sessions/conquering-all-your-stream-processing-needs-with-kafka-and-spark/">Conquering all your stream processing needs with Kafka and Spark</a></span><br>Databricks, <a href="http://kafka-summit.org/speakers/tathagata-das/" class="speaker">Tathagata Das</a></td>
+						<td><span class="session"><a href="http://kafka-summit.org/sessions/conquering-all-your-stream-processing-needs-with-kafka-and-spark/">Conquering All Your Stream Processing Needs with Kafka and Spark</a></span><br>Databricks, <a href="http://kafka-summit.org/speakers/tathagata-das/" class="speaker">Tathagata Das</a></td>
 						<td><span class="session"><a href="http://kafka-summit.org/sessions/more-datacenters-more-problems/">More Datacenters, More Problems</a></span><br>LinkedIn, <a href="http://kafka-summit.org/speakers/todd-palino/" class="speaker">Todd Palino</a></td>
 						<td><span class="session"><a href="http://kafka-summit.org/sessions/leveraging-kafka-for-big-data-in-real-time-bidding-analytics-machine-learning-and-campaign-management-for-globally-distributed-data-flows/">Leveraging Kafka for Big Data in Real Time Bidding, Analytics, Machine Learning and Campaign Management for Globally Distributed Data Flows</a></span><br>Tuplejump, <a href="http://kafka-summit.org/speakers/helena-edelson/" class="speaker">Helena Edelson</a></td>
 					</tr>
 					<tr>
 						<td class="time">3:20 PM - 3:40 PM</td>
-						<td colspan="3"><div class="break">Break</div></td>
+						<td colspan="3"><div class="break">Break<br>Yosemite Ballroom</div></td>
 					</tr>					
 					<tr>
 						<td class="time">3:40 PM - 4:20 PM</td>
@@ -101,7 +101,7 @@
 						<td><span class="session"><a href="http://kafka-summit.org/sessions/deploying-kafka-at-dropbox/">Deploying Kafka at Dropbox</a></span><br>Dropbox, <a href="http://kafka-summit.org/speakers/mark-smith/" class="speaker">Mark Smith</a> &amp; <a href="http://kafka-summit.org/speakers/sean-fellows/" class="speaker">Sean Fellows</a></td>
 						<td><span class="session">Lightning Sessions</span>
 						<p><span class="session"><a href="http://kafka-summit.org/sessions/ingesting-complex-healthcare-data-with-apache-kafka/">Ingesting Complex Healthcare Data with Apache Kafka</a></span> Cerner, <a href="http://kafka-summit.org/speakers/micah-whitacre/" class="speaker">Micah Whitacre</a></p>
-						<p><span class="session"><a href="http://kafka-summit.org/sessions/kafka-and-stream-processing-taking-analytics-real-time/">Kafka and Stream processing, Taking Analytics Real-time</a></span>IBM <a href="http://kafka-summit.org/speakers/mike-spicer/" class="speaker">Mike Spicer</a></p>
+						<p><span class="session"><a href="http://kafka-summit.org/sessions/kafka-and-stream-processing-taking-analytics-real-time/">Kafka and Stream Processing, Taking Analytics Real-time</a></span>IBM <a href="http://kafka-summit.org/speakers/mike-spicer/" class="speaker">Mike Spicer</a></p>
 						<p><span class="session"><a href="http://kafka-summit.org/sessions/never-at-rest-iot-and-data-streaming-at-british-gas-connected-homes/">Never at Rest - IoT and Data Streaming at British Gas Connected Homes</a></span><br>Connected Homes,  <a href="http://kafka-summit.org/speakers/paul-makkar/" class="speaker">Paul Makkar</a></p>
 						</td>
 					</tr>
@@ -113,7 +113,7 @@
 					</tr>
 					<tr>
 						<td class="time">6:00 PM - 9:00 PM</td>
-						<td colspan="3"><div class="break">Kafka-Palooza Party</div></td>
+						<td colspan="3"><div class="break">Kafka-Palooza Party<br>CityScape, 46th floor</div></td>
 					</tr>
 				</table>
 				</div>
