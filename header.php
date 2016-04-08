@@ -33,7 +33,12 @@
 							<li><a href="/training">Training</a></li>
 						</ul>
 					</li>
-					<li><a href="/info">Info</a></li>
+					<li>
+						<a href="/info">Info</a>
+						<ul class="dropdown">
+							<li><a href="/code-of-conduct">Code of Conduct</a></li>
+						</ul>
+					</li>
 					<li><a class="register" href="/register">Register</a></li>
 				</ul>				
 				</div>
