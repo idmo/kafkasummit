@@ -67,7 +67,7 @@
 					</tr>
 					<tr>
 						<td class="time">12:50 PM - 1:50 PM</td>
-						<td colspan="3"><div class="break">Lunch Sponsored by <img src="http://kafka-summit.org/wp-content/uploads/2016/03/salesforce.png" alt="Salesforce" class="" width="9%">Yosemite Ballroom</div></td>
+						<td colspan="3"><div class="break">Lunch Sponsored by <img src="http://kafka-summit.org/wp-content/uploads/2016/03/salesforce.png" alt="Salesforce" class="" width="9%"><br>Yosemite Ballroom</div></td>
 					</tr>
 					<tr>
 						<td class="time">1:50 PM - 2:30 PM</td>
@@ -90,7 +90,7 @@
 						<td><span class="session"><a href="http://kafka-summit.org/sessions/simplifying-event-streaming-tools-for-location-transparency-and-data-evolution/">Simplifying Event Streaming: Tools for Location Transparency and Data Evolution</a></span><br>Under Armour, <a href="http://kafka-summit.org/speakers/paul-osman/" class="speaker">Paul Osman</a></td>
 						<td><span class="session"><a href="http://kafka-summit.org/sessions/building-an-event-oriented-data-platform-with-kafka/">Building an Event-oriented Data Platform with Kafka</a></span><br>Rocana, <a href="http://kafka-summit.org/speakers/eric-sammer/" class="speaker">Eric Sammer</a></td>
 						<td><span class="session">Lightning Sessions</span><br>		
-						<p><span class="session"><a href="Towards A Stream Centered Enterprise">Towards A Stream Centered Enterprise</a></span> Comcast, <a href="http://kafka-summit.org/speakers/gabriel-commeau/" class="speaker">Gabriel Commeau</a></p>
+						<p><span class="session"><a href="http://kafka-summit.org/sessions/towards-a-stream-centered-enterprise/">Towards A Stream Centered Enterprise</a></span> Comcast, <a href="http://kafka-summit.org/speakers/gabriel-commeau/" class="speaker">Gabriel Commeau</a></p>
 						<p><span class="session"><a href="http://kafka-summit.org/sessions/kafka-the-dialtone-for-data-building-a-self-service-scalable-streaming-analytics-system-homeaway/">Kafka, the "DialTone for Data": Building a self-service, scalable, streaming analytics system @ HomeAway</span></a> Homeaway, <a href="http://kafka-summit.org/speakers/rene-parra/" class="speaker">Rene Parra</a></p>
 						<p><span class="session"><a href="http://kafka-summit.org/sessions/kafka-killer-of-point-to-point-integrations/">Kafka, Killer of Point-to-Point Integrations</a></span> Intuit, <a href="http://kafka-summit.org/speakers/lucian-lita/" class="speaker">Lucian Lita</a></p>
 						</td>
