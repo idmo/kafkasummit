@@ -34,8 +34,9 @@
 						</ul>
 					</li>
 					<li>
-						<a href="/info">Info</a>
+						<a href="#">Info</a>
 						<ul class="dropdown">
+							<li><a href="/info">Venue</a></li>
 							<li><a href="/code-of-conduct">Code of Conduct</a></li>
 						</ul>
 					</li>
