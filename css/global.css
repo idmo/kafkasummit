@@ -544,6 +544,9 @@ body.post-type-archive-sessions {
   border-radius: 6px;
   background-color: #eee;
 }
+#schedule table .break span {
+  font-weight: 100;
+}
 
 body.post-type-archive-people .thumbnail {
   margin-bottom: 0;

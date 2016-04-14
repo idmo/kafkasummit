@@ -6,7 +6,7 @@
 
  ?>
 
-<?php get_header('foo'); ?>
+<?php get_header(); ?>
 
 
 <div class="slide" id="schedule">
@@ -23,29 +23,35 @@
 					</tr>
 					<tr>
 						<td class="time">&nbsp;</td>
-						<td colspan="3"><div class="break">Check-in 7:30 AM - 5:00 PM<br>Yosemite Ballroom</div></td>
+						<td colspan="3"><div class="break">Check-in 7:30 AM - 5:00 PM<br><span>Yosemite</span></div></td>
 					</tr>
 					<tr>
 						<td class="time">&nbsp;</td>
-						<td colspan="3"><div class="break">Community Room / Exhibit Hall 7:30 AM - 3:30 PM<br>Yosemite Ballroom</div></td>
+						<td colspan="3"><div class="break">Community Room / Exhibit Hall 7:30 AM - 3:40 PM<br><span>Yosemite</span></div></td>
 					</tr>
 					<tr>
 						<td class="time">7:30 AM - 9:00 AM</td>
-						<td colspan="3"><div class="break">Breakfast<br>Yosemite Ballroom</div></td>
+						<td colspan="3"><div class="break">Breakfast<br><span>Yosemite</span></div></td>
 					</tr>
 					<tr>
 						<td class="time">9:00 AM - 10:15 AM</td>
-						<td colspan="3" id="general-session"><strong>General Session<br>Grand A Ballroom</strong></td>
+						<td colspan="3" id="general-session">
+								General Session
+								Neha Narkhede, Confluent - <strong>Welcome</strong><br>
+								Jay Kreps, Confluent<br>
+								Aaron Schildkrout, Uber - <strong>Kafka + Uber: The World’s Realtime Transit Infrastructure</strong><br>
+								Grand A
+						</td>
 					</tr>
 					<tr>
 						<td class="time">10:15 AM - 10:30 AM</td>
-						<td colspan="3"><div class="break">Break<br>Yosemite Ballroom</div></td>
+						<td colspan="3"><div class="break">Break<br><span>Yosemite</span></div></td>
 					</tr>
 					<tr class="tracks">
 						<th>&nbsp;</th>
-						<th>Systems Track<br><span class="room">Grand A Ballroom</span></th>
-						<th>Operations Track<br><span class="room">Imperial A Ballroom</span></th>
-						<th>Users Track<br><span class="room">Imperial B Ballroom</span></th>
+						<th>Systems Track<br><span class="room">Grand A</span></th>
+						<th>Operations Track<br><span class="room">Imperial A</span></th>
+						<th>Users Track<br><span class="room">Imperial B</span></th>
 					</tr>
 					<tr>
 						<td class="time">10:30 AM - 11:10 AM</td>
@@ -67,7 +73,7 @@
 					</tr>
 					<tr>
 						<td class="time">12:50 PM - 1:50 PM</td>
-						<td colspan="3"><div class="break">Lunch Sponsored by <img src="http://kafka-summit.org/wp-content/uploads/2016/03/salesforce.png" alt="Salesforce" class="" width="9%"><br>Yosemite Ballroom</div></td>
+						<td colspan="3"><div class="break">Lunch<br><span>Yosemite</span></div></td>
 					</tr>
 					<tr>
 						<td class="time">1:50 PM - 2:30 PM</td>
@@ -83,7 +89,7 @@
 					</tr>
 					<tr>
 						<td class="time">3:20 PM - 3:40 PM</td>
-						<td colspan="3"><div class="break">Break<br>Yosemite Ballroom</div></td>
+						<td colspan="3"><div class="break">Break<br><span>Yosemite</span></div></td>
 					</tr>					
 					<tr>
 						<td class="time">3:40 PM - 4:20 PM</td>
@@ -112,8 +118,8 @@
 						<td><span class="session"><a href="http://kafka-summit.org/sessions/real-time-analytics-visualized-w-kafka-streamliner-memsql-zoomdata/">Real-Time Analytics Visualized w/ Kafka + Streamliner + MemSQL + ZoomData</a></span><br><a href="http://kafka-summit.org/speakers/anton-gorshkov/" class="speaker">Anton Gorshkov</a>, Goldman Sachs</td>
 					</tr>
 					<tr>
-						<td class="time">6:00 PM - 9:00 PM</td>
-						<td colspan="3"><div class="break">Kafka-Palooza Party<br>CityScape, 46th floor</div></td>
+						<td class="time">6:00 PM - 8:30 PM</td>
+						<td colspan="3"><div class="break">Kafka-Palooza Party<br><span>CityScape</span></div></td>
 					</tr>
 				</table>
 				</div>
