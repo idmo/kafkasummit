@@ -5,7 +5,7 @@
 		<div class="row">
 			<div class="col-md-12">
 				<h3><?php the_title( ); ?></h3>
-				<p><?php the_field('date') ?> <?php the_field('location'); ?></p>
+				<p><?php the_field('Time') ?>, <?php the_field('location'); ?></p>
 				
 				
 				<h2>Description</h2>
