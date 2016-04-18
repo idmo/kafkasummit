@@ -84,7 +84,7 @@
             </div>
             <div class="swiper-slide">
               <a href="http://kafka-summit.org/sponsors/memsql/">
-              <img src="http://kafka-summit.org/wp-content/uploads/2016/03/memsql.png" alt="MemSQL" class="img-responsive center-block" width="75%">
+              <img src="http://kafka-summit.org/wp-content/uploads/2015/12/memsql.png" alt="MemSQL" class="img-responsive center-block" width="75%">
               </a>
             </div>
             <div class="swiper-slide">
