@@ -36,11 +36,10 @@
 					<tr>
 						<td class="time">9:00 AM - 10:15 AM</td>
 						<td colspan="3" id="general-session">
-								General Session <br>
-								Neha Narkhede, Confluent - <strong>Welcome</strong><br>
-								Jay Kreps, Confluent<br>
-								Aaron Schildkrout, Uber - <strong>Kafka + Uber: The World’s Realtime Transit Infrastructure</strong><br>
-								Grand A
+								Keynote <br> 
+								Neha Narkhede, Confluent - <strong>Welcome</strong> <br>
+								Jay Kreps, Confluent - <strong>The Rise of Real-Time</strong> <br>
+								Aaron Schildkrout, Uber - <strong>Kafka + Uber: The World’s Realtime Transit Infrastructure</strong>
 						</td>
 					</tr>
 					<tr>
