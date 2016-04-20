@@ -89,7 +89,7 @@
             </div>
             <div class="swiper-slide">
               <a href="http://kafka-summit.org/sponsors/opsclarity/">
-              <img src="http://kafka-summit.org/wp-content/uploads/2016/03/opsclarity.png" alt="Ops Clarity" class="img-responsive center-block" width="75%">
+              <img src="http://kafka-summit.org/wp-content/uploads/2015/11/opsclarity.png" alt="Ops Clarity" class="img-responsive center-block" width="75%">
               </a>
             </div>
             <div class="swiper-slide">
