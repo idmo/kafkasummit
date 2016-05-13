@@ -37,9 +37,9 @@
 						<td class="time">9:00 AM - 10:15 AM</td>
 						<td colspan="3" id="general-session">
 								Keynote <br> 
-								<a href="http://kafka-summit.org/speakers/neha-narkhede/" class="speaker">Neha Narkhede</a>, Confluent - <strong>Welcome</strong> <br>
-								<a href="http://kafka-summit.org/speakers/neha-narkhede/jay-kreps" class="speaker">Jay Kreps</a>, Confluent - <strong>The Rise of Real-Time</strong> <br>
-								<a href="http://kafka-summit.org/speakers/aaron-schildkrout/" class="speaker">Aaron Schildkrout</a>, Uber - <strong>Kafka + Uber: The World’s Realtime Transit Infrastructure</strong>
+								<a href="http://kafka-summit.org/speakers/neha-narkhede/" class="speaker">Neha Narkhede</a>, Confluent - <strong>Welcome</strong> <br><a href="http://www.confluent.io/kafka-summit-2016-welcome-to-kafka-summit-2016">View video and slides</a><br>
+								<a href="http://kafka-summit.org/speakers/neha-narkhede/jay-kreps" class="speaker">Jay Kreps</a>, Confluent - <strong>The Rise of Real-Time</strong> <br> <a href="http://www.confluent.io/kafka-summit-2016-keynote-the-rise-of-real-time-jay-kreps">View video and slides</a><br>
+								<a href="http://kafka-summit.org/speakers/aaron-schildkrout/" class="speaker">Aaron Schildkrout</a>, Uber - <strong>Kafka + Uber: The World’s Realtime Transit Infrastructure</strong><br><a href="http://www.confluent.io/kafka-summit-2016-keynote-kafka-and-uber-the-worlds-realtime-transit-infrastructure">View video and slides</a>
 						</td>
 					</tr>
 					<tr>
