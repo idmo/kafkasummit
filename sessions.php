@@ -16,7 +16,7 @@
 <?php if ($my_query->have_posts()) : ?>
 	<?php while ($my_query->have_posts()) : $my_query->the_post(); ?>
 		<!-- loop of sessions -->
-		<h2><a href="<?php the_permalink(); ?>"><?php the_title( ); ?></a></h2>
+		<h3><a href="<?php the_permalink(); ?>"><?php the_title( ); ?></a></h3>
 		<?php the_excerpt(); ?>
 		<a href="<?php the_field('video_and_slides') ?>">View video and slides</a>
 		

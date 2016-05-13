@@ -394,6 +394,9 @@ body.single-sessions {
 	}
 	a {
 		color: #000;
+		&.video {
+			color: $color_primary;
+		}
 	}
 }
 body.page-template-page-schedule {
@@ -503,3 +506,12 @@ span.room {
 	font-weight: 100;
 	color: #000;
 }
+
+.post-type-archive-sessions {
+	h3 {
+		a {
+			color: #555;
+		}
+	}
+}
+

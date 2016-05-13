@@ -569,6 +569,9 @@ body.single-sessions h3 {
 body.single-sessions a {
   color: #000;
 }
+body.single-sessions a.video {
+  color: magenta;
+}
 
 body.page-template-page-schedule {
   background: none;
@@ -664,6 +667,10 @@ ul.global-menu li ul.dropdown li {
 span.room {
   font-weight: 100;
   color: #000;
+}
+
+.post-type-archive-sessions h3 a {
+  color: #555;
 }
 
 iframe {

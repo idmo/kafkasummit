@@ -10,7 +10,7 @@
 				
 				<h2>Description</h2>
 				<?php get_template_part('clip', 'single'); ?>
-				<a href="<?php the_field('video_and_slides') ?>">View video and slides</a>
+				<a class="video" href="<?php the_field('video_and_slides') ?>">View video and slides</a>
 			</div>
 		</div>
 	</div>
