@@ -19,19 +19,19 @@
 			<table class="table">
 					<tr>
 						<td class="time">&nbsp;</td>
-						<td colspan="3" class="disclaimer"><em>Times are subject to change</em></td>
+						<td colspan="3" class="disclaimer"></td>
 					</tr>
 					<tr>
 						<td class="time">&nbsp;</td>
-						<td colspan="3"><div class="break">Check-in 7:30 AM - 5:00 PM<br><span>Yosemite</span></div></td>
+						<td colspan="3"><div class="break">Check-in 7:30 AM - 5:00 PM</div></td>
 					</tr>
 					<tr>
 						<td class="time">&nbsp;</td>
-						<td colspan="3"><div class="break">Community Room / Exhibit Hall 7:30 AM - 3:40 PM<br><span>Yosemite</span></div></td>
+						<td colspan="3"><div class="break">Community Room / Exhibit Hall 7:30 AM - 3:40 PM</div></td>
 					</tr>
 					<tr>
 						<td class="time">7:30 AM - 9:00 AM</td>
-						<td colspan="3"><div class="break">Breakfast<br><span>Yosemite</span></div></td>
+						<td colspan="3"><div class="break">Breakfast</div></td>
 					</tr>
 					<tr>
 						<td class="time">9:00 AM - 10:15 AM</td>
@@ -44,7 +44,7 @@
 					</tr>
 					<tr>
 						<td class="time">10:15 AM - 10:30 AM</td>
-						<td colspan="3"><div class="break">Break<br><span>Yosemite</span></div></td>
+						<td colspan="3"><div class="break">Break</div></td>
 					</tr>
 					<tr class="tracks">
 						<th>&nbsp;</th>
@@ -72,7 +72,7 @@
 					</tr>
 					<tr>
 						<td class="time">12:50 PM - 1:50 PM</td>
-						<td colspan="3"><div class="break">Lunch<br><span>Yosemite</span></div></td>
+						<td colspan="3"><div class="break">Lunch</div></td>
 					</tr>
 					<tr>
 						<td class="time">1:50 PM - 2:30 PM</td>
@@ -88,7 +88,7 @@
 					</tr>
 					<tr>
 						<td class="time">3:20 PM - 3:40 PM</td>
-						<td colspan="3"><div class="break">Break<br><span>Yosemite</span></div></td>
+						<td colspan="3"><div class="break">Break</div></td>
 					</tr>					
 					<tr>
 						<td class="time">3:40 PM - 4:20 PM</td>
