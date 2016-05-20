@@ -10,13 +10,7 @@
 <?php get_header(); ?>
 
 
-<div class="container">
-  <div class="row">
-    <div class="col-md-12">
-      <?php get_template_part('loop', 'home'); ?>    
-    </div>
-  </div>
-</div>
+
 	
 <div class="slide" id="masthead">
     <div class="container">
@@ -28,7 +22,7 @@
     </div>
     </div>  
 
-
+      <?php get_template_part('loop', 'home'); ?>    
 
 <div class="slide" id="get-updates">
 <div class="container">
