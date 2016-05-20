@@ -22,20 +22,7 @@
 			<div class="row">
 				<div class="col-md-12">
 				<ul class="global-menu">
-					<li><a href="/">Home</a></li>
-					<li><a href="/schedule">Schedule</a></li>
-					<li><a href="/sessions">Sessions</a></li>
-					<li><a href="/speakers">Speakers</a></li>
-					<li><a href="/sponsors">Sponsors</a></li>
-					
-					<li>
-						<a href="#">Info</a>
-						<ul class="dropdown">
-							<li><a href="/info">Venue</a></li>
-							<li><a href="/code-of-conduct">Code of Conduct</a></li>
-						</ul>
-					</li>
-					
+					<li><a href="/">Home</a></li>										
 				</ul>				
 				</div>
 			</div>

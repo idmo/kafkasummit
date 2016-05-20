@@ -1,6 +1,6 @@
 <?php 
 /**
- * Template Name: Home Page with Progam Committe
+ * Template Name: Kafka Summit 2016
  *
  */
 
@@ -12,6 +12,15 @@
 
     <?php get_template_part('loop', 'home'); ?>    
 	
+<div class="slide" id="masthead">
+    <div class="container">
+      <div class="row">
+      <div class="col-md-12"> 
+        <a href="http://www.kafka-summit.org/index.php"><img src="<?php echo get_template_directory_uri(); ?>/images/kafka-summit-2016-logo.png" alt="Kafka Summit 2016 March 12, 2016" class="img-responsive"></a>       
+      </div>
+      </div>        
+    </div>
+    </div>  
 
 
 
